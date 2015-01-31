@@ -1,0 +1,1 @@
+[07-Dec-2014 12:30:38 Etc/GMT] PHP Fatal error:  Call to undefined function get_theme_data() in /home/slg2015/public_html/wp-content/themes/CherryFramework/admin/data_management/update.php on line 32

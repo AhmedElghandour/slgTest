@@ -1,0 +1,4827 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cherry Framework\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-24 17:19+0200\n"
+"PO-Revision-Date: 2015-01-20 14:10:32+0000\n"
+"Last-Translator: Alex Ross <alex@template-telp.com>\n"
+"Language-Team: Cherry Framework Team\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ./\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: ../framework_options.php:820
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:317
+#@ CURRENT_THEME
+msgid "Style Switcher"
+msgstr "Outil de changement de style"
+
+#: ../framework_options.php:823
+#@ CURRENT_THEME
+msgid "Display Style Switcher on front-end?"
+msgstr "Afficher l'outil de changement de style sur le site "
+
+#: ../framework_options.php:824
+#@ CURRENT_THEME
+msgid "Do you want to display Style Switcher on front-end?"
+msgstr "Voulez-vous afficher l'outil de changement de style sur le site ?"
+
+#: ../framework_options.php:830
+#@ CURRENT_THEME
+msgid "Display Layout Style option?"
+msgstr "Afficher les options de mise en page du style ?"
+
+#: ../framework_options.php:831
+#@ CURRENT_THEME
+msgid "Display Layout Style option on front-end?"
+msgstr "Afficher les options de mise en page du style sur le site ?"
+
+#: ../framework_options.php:837
+#@ CURRENT_THEME
+msgid "Display Color Skin option?"
+msgstr "Afficher les options de couleur du thème ?"
+
+#: ../framework_options.php:838
+#@ CURRENT_THEME
+msgid "Display Color Skin option on front-end?"
+msgstr "Afficher les options de couleur du thème sur le site"
+
+#: ../framework_options.php:844
+#@ CURRENT_THEME
+msgid "Display Color Schemes option?"
+msgstr "Afficher les options de palettes de couleurs ?"
+
+#: ../framework_options.php:845
+#@ CURRENT_THEME
+msgid "Display Color Schemes option on front-end?"
+msgstr "Afficher les options de palettes de couleurs sur le site ?"
+
+#: ../framework_options.php:851
+#@ CURRENT_THEME
+msgid "Display Patterns option?"
+msgstr "Afficher les options de motifs ?"
+
+#: ../framework_options.php:852
+#@ CURRENT_THEME
+msgid "Display Patterns option on front-end?"
+msgstr "Afficher les options de motifs sur le site ?"
+
+#: ../framework_options.php:858
+#@ CURRENT_THEME
+msgid "Display Slider option?"
+msgstr "Afficher les options du slider ?"
+
+#: ../framework_options.php:859
+#@ CURRENT_THEME
+msgid "Display Slider option on front-end?"
+msgstr "Afficher les options du slider sur le site ?"
+
+#: ../framework_options.php:865 ../framework_options.php:872
+#@ CURRENT_THEME
+msgid "Display Blog layout option?"
+msgstr "Afficher les options de mise en page du blog ?"
+
+#: ../framework_options.php:866 ../framework_options.php:873
+#@ CURRENT_THEME
+msgid "Display Blog layout option on front-end?"
+msgstr "Afficher les options de mise en page du blog sur le site ?"
+
+#: ../functions.php:1505 ../functions.php:1543
+#@ CURRENT_THEME
+msgid "The package could not be installed."
+msgstr "Le fichier n'a pas pu être installé."
+
+#: ../admin/options-sanitize.php:257 ../includes/locals.php:387
+#@ CURRENT_THEME
+msgid "No Repeat"
+msgstr "Pas de répétition"
+
+#: ../admin/options-sanitize.php:258 ../includes/locals.php:388
+#@ CURRENT_THEME
+msgid "Repeat Horizontally"
+msgstr "répéter horizontalement"
+
+#: ../admin/options-sanitize.php:259 ../includes/locals.php:389
+#@ CURRENT_THEME
+msgid "Repeat Vertically"
+msgstr "Répétez verticalement"
+
+#: ../admin/options-sanitize.php:260 ../includes/locals.php:390
+#@ CURRENT_THEME
+msgid "Repeat All"
+msgstr "répéter tout"
+
+#: ../admin/options-sanitize.php:273 ../includes/locals.php:391
+#@ CURRENT_THEME
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: ../admin/options-sanitize.php:274 ../includes/locals.php:392
+#@ CURRENT_THEME
+msgid "Top Center"
+msgstr "Au Centre"
+
+#: ../admin/options-sanitize.php:275 ../includes/locals.php:393
+#@ CURRENT_THEME
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: ../admin/options-sanitize.php:276 ../includes/locals.php:394
+#@ CURRENT_THEME
+msgid "Middle Left"
+msgstr "Moyen-Gauche"
+
+#: ../admin/options-sanitize.php:277 ../includes/locals.php:395
+#@ CURRENT_THEME
+msgid "Middle Center"
+msgstr "Centre Moyen"
+
+#: ../admin/options-sanitize.php:278 ../includes/locals.php:396
+#@ CURRENT_THEME
+msgid "Middle Right"
+msgstr "droit Moyen"
+
+#: ../admin/options-sanitize.php:279 ../includes/locals.php:397
+#@ CURRENT_THEME
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: ../admin/options-sanitize.php:280 ../includes/locals.php:398
+#@ CURRENT_THEME
+msgid "Bottom Center"
+msgstr "En bas au centre"
+
+#: ../admin/options-sanitize.php:281 ../includes/locals.php:399
+#@ CURRENT_THEME
+msgid "Bottom Right"
+msgstr "En bas à droite"
+
+#: ../admin/options-sanitize.php:294 ../includes/locals.php:400
+#@ CURRENT_THEME
+msgid "Scroll Normally"
+msgstr "Normalement défilement"
+
+#: ../admin/options-sanitize.php:295 ../includes/locals.php:401
+#@ CURRENT_THEME
+msgid "Fixed in Place"
+msgstr "Correction en place"
+
+#: ../admin/options-sanitize.php:346
+#@ CURRENT_THEME
+msgid "1"
+msgstr "1"
+
+#: ../admin/options-sanitize.php:347
+#@ CURRENT_THEME
+msgid "1.2"
+msgstr "1.2"
+
+#: ../admin/options-sanitize.php:348
+#@ CURRENT_THEME
+msgid "1.5"
+msgstr "1.5"
+
+#: ../admin/options-sanitize.php:349
+#@ CURRENT_THEME
+msgid "2"
+msgstr "2"
+
+#: ../admin/options-sanitize.php:391 ../includes/locals.php:898
+#@ CURRENT_THEME
+msgid "Latin"
+msgstr "Latin"
+
+#: ../admin/options-sanitize.php:392 ../includes/locals.php:899
+#@ CURRENT_THEME
+msgid "Latin Extended"
+msgstr "latin étendu"
+
+#: ../admin/options-sanitize.php:393 ../includes/locals.php:900
+#@ CURRENT_THEME
+msgid "Greek"
+msgstr "Grecque"
+
+#: ../admin/options-sanitize.php:394 ../includes/locals.php:901
+#@ CURRENT_THEME
+msgid "Greek Extended"
+msgstr "Grec étendu"
+
+#: ../admin/options-sanitize.php:395 ../includes/locals.php:902
+#@ CURRENT_THEME
+msgid "Cyrillic"
+msgstr "cyrillique"
+
+#: ../admin/options-sanitize.php:396 ../includes/locals.php:903
+#@ CURRENT_THEME
+msgid "Cyrillic Extended"
+msgstr "cyrillique étendu"
+
+#: ../admin/options-sanitize.php:397 ../includes/locals.php:904
+#@ CURRENT_THEME
+msgid "Vietnamese"
+msgstr "vietnamien"
+
+#: ../admin/options-sanitize.php:414 ../includes/locals.php:12
+#: ../includes/locals.php:905
+#@ CURRENT_THEME
+msgid "Normal"
+msgstr "Normal"
+
+#: ../admin/options-sanitize.php:415 ../includes/locals.php:906
+#@ CURRENT_THEME
+msgid "Italic"
+msgstr "Italique"
+
+#: ../admin/options-sanitize.php:416 ../includes/locals.php:907
+#@ CURRENT_THEME
+msgid "Bold"
+msgstr "Bold"
+
+#: ../admin/options-sanitize.php:417 ../includes/locals.php:908
+#@ CURRENT_THEME
+msgid "Bold Italic"
+msgstr "Bold Italique"
+
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:330
+#: ../includes/locals.php:100
+#@ CURRENT_THEME
+msgid "Layout Style"
+msgstr "Style de mise en page"
+
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:348
+#@ CURRENT_THEME
+msgid "Color Skin"
+msgstr "Couleur"
+
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:367
+#@ CURRENT_THEME
+msgid "Color Schemes"
+msgstr "Palettes de couleur"
+
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:395
+#@ CURRENT_THEME
+msgid "Patterns"
+msgstr "Motifs"
+
+#: ../admin/style-switcher/public/class-cherry-style-switcher.php:414
+#@ CURRENT_THEME
+msgid "Slider Type"
+msgstr "Type de slider"
+
+#: ../includes/class-tgm-plugin-activation.php:170
+#@ CURRENT_THEME
+msgid "Return to the dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../includes/class-tgm-plugin-activation.php:172 ../includes/locals.php:617
+#@ CURRENT_THEME
+msgid "The following plugin was activated successfully:"
+msgstr "Le plugin suivant a été activé avec succès:"
+
+#: ../includes/class-tgm-plugin-activation.php:174 ../includes/locals.php:600
+#: ../includes/locals.php:924
+#@ CURRENT_THEME
+msgid "Dismiss this notice"
+msgstr "Rejeter cet avis"
+
+#: ../includes/locals.php:9
+#@ CURRENT_THEME
+msgid "No"
+msgstr "Aucun"
+
+#: ../includes/locals.php:10
+#@ CURRENT_THEME
+msgid "Yes"
+msgstr "Oui"
+
+#: ../includes/locals.php:11
+#@ CURRENT_THEME
+msgid "Slow"
+msgstr "Lentement"
+
+#: ../includes/locals.php:13
+#@ CURRENT_THEME
+msgid "Fast"
+msgstr "Rapide"
+
+#: ../includes/locals.php:14
+#@ CURRENT_THEME
+msgid "Normal size"
+msgstr "Taille normale"
+
+#: ../includes/locals.php:15
+#@ CURRENT_THEME
+msgid "Large size"
+msgstr "Grande taille"
+
+#: ../includes/locals.php:16
+#@ CURRENT_THEME
+msgid "Font Size"
+msgstr "Taille de la police"
+
+#: ../includes/locals.php:17
+#@ CURRENT_THEME
+msgid "Lineheight"
+msgstr "Hauteur de ligne"
+
+#: ../includes/locals.php:18
+#@ CURRENT_THEME
+msgid "Font Face"
+msgstr "Visage de la police"
+
+#: ../includes/locals.php:19
+#@ CURRENT_THEME
+msgid "Character Sets"
+msgstr "Jeux de caractères"
+
+#: ../includes/locals.php:20
+#@ CURRENT_THEME
+msgid "Font Style"
+msgstr "Style de police"
+
+#: ../includes/locals.php:21
+#@ CURRENT_THEME
+msgid "Color"
+msgstr "Couleur"
+
+#: ../includes/locals.php:22
+#@ CURRENT_THEME
+msgid "Import"
+msgstr "Importer"
+
+#: ../includes/locals.php:23
+#@ CURRENT_THEME
+msgid "Export"
+msgstr "Exporter"
+
+#: ../includes/locals.php:24
+#@ CURRENT_THEME
+msgid "Done"
+msgstr "Terminé"
+
+#: ../includes/locals.php:25
+#@ CURRENT_THEME
+msgid "Error"
+msgstr "Erreur"
+
+#: ../includes/locals.php:26
+#@ CURRENT_THEME
+msgid "success"
+msgstr "succès"
+
+#: ../includes/locals.php:27
+#@ CURRENT_THEME
+msgid "Upload"
+msgstr "Télécharger"
+
+#: ../includes/locals.php:28
+#@ CURRENT_THEME
+msgid "try again"
+msgstr "essayer à nouveau"
+
+#: ../includes/locals.php:29
+#@ CURRENT_THEME
+msgid "Finish"
+msgstr "Terminer"
+
+#: ../includes/locals.php:30
+#@ CURRENT_THEME
+msgid "Skip this step"
+msgstr "Passer cette étape"
+
+#: ../includes/locals.php:31
+#@ CURRENT_THEME
+msgid "next"
+msgstr "suivant"
+
+#: ../includes/locals.php:32
+#@ CURRENT_THEME
+msgid "None"
+msgstr "aucun"
+
+#: ../includes/locals.php:33 ../includes/locals.php:763
+#@ CURRENT_THEME
+msgid "Date"
+msgstr "Date"
+
+#: ../includes/locals.php:34
+#@ CURRENT_THEME
+msgid "Title"
+msgstr "Titre"
+
+#: ../includes/locals.php:35
+#@ CURRENT_THEME
+msgid "Info"
+msgstr "infos"
+
+#: ../includes/locals.php:36
+#@ CURRENT_THEME
+msgid "Random"
+msgstr "aléatoire"
+
+#: ../includes/locals.php:37
+#@ CURRENT_THEME
+msgid "Comment count"
+msgstr "décompte de commentaires"
+
+#: ../includes/locals.php:38
+#@ CURRENT_THEME
+msgid "Enable Lightbox"
+msgstr "Activer ma sélection"
+
+#: ../includes/locals.php:39
+#@ CURRENT_THEME
+msgid "Check this to enable the lightbox."
+msgstr "Cochez cette case pour activer la lightbox."
+
+#: ../includes/locals.php:40
+#@ CURRENT_THEME
+msgid "Permalink"
+msgstr "Permalien"
+
+#: ../includes/locals.php:41
+#@ CURRENT_THEME
+msgid "Read more"
+msgstr "lire la suite"
+
+#: ../includes/locals.php:42
+#@ CURRENT_THEME
+msgid "View all"
+msgstr "voir tous"
+
+#: ../includes/locals.php:43
+#@ CURRENT_THEME
+msgid "Width"
+msgstr "largeur"
+
+#: ../includes/locals.php:44
+#@ CURRENT_THEME
+msgid "Height"
+msgstr "hauteur"
+
+#: ../includes/locals.php:45
+#@ CURRENT_THEME
+msgid "Excerpt length (words):"
+msgstr "Extrait longueur (mots):"
+
+#: ../includes/locals.php:46
+#@ CURRENT_THEME
+msgid "Link Text:"
+msgstr "Lien texte:"
+
+#: ../includes/locals.php:47
+#@ CURRENT_THEME
+msgid "Link URL"
+msgstr "lien URL"
+
+#: ../includes/locals.php:48
+#@ CURRENT_THEME
+msgid "Standard"
+msgstr "standard"
+
+#: ../includes/locals.php:49
+#@ CURRENT_THEME
+msgid "Aside"
+msgstr "de côté"
+
+#: ../includes/locals.php:50
+#@ CURRENT_THEME
+msgid "Quote"
+msgstr "Citer"
+
+#: ../includes/locals.php:51
+#@ CURRENT_THEME
+msgid "Link"
+msgstr "lien"
+
+#: ../includes/locals.php:52
+#@ CURRENT_THEME
+msgid "Image"
+msgstr "Image"
+
+#: ../includes/locals.php:53
+#@ CURRENT_THEME
+msgid "Gallery"
+msgstr "galerie"
+
+#: ../includes/locals.php:54
+#@ CURRENT_THEME
+msgid "Audio"
+msgstr "acoustique"
+
+#: ../includes/locals.php:55
+#@ CURRENT_THEME
+msgid "Video"
+msgstr "Video"
+
+#: ../includes/locals.php:56
+#@ CURRENT_THEME
+msgid "Categories"
+msgstr "catégories"
+
+#: ../includes/locals.php:57
+#@ CURRENT_THEME
+msgid "Tags"
+msgstr "Mots clés"
+
+#: ../includes/locals.php:58
+#@ CURRENT_THEME
+msgid "Show All"
+msgstr "Afficher tout"
+
+#: ../includes/locals.php:59
+#@ CURRENT_THEME
+msgid "search"
+msgstr "recherche"
+
+#: ../includes/locals.php:60
+#@ CURRENT_THEME
+msgid "Go"
+msgstr "aller"
+
+#: ../includes/locals.php:61
+#@ CURRENT_THEME
+msgid "&laquo; Previous post"
+msgstr "&laquo; Article précedent"
+
+#: ../includes/locals.php:62
+#@ CURRENT_THEME
+msgid "Next Post &raquo;"
+msgstr "Next Post »"
+
+#: ../includes/locals.php:63
+#@ CURRENT_THEME
+msgid "URL"
+msgstr "URL"
+
+#: ../includes/locals.php:64
+#@ CURRENT_THEME
+msgid "URL #1"
+msgstr "URL #1"
+
+#: ../includes/locals.php:65
+#@ CURRENT_THEME
+msgid "URL #2"
+msgstr "URL #2"
+
+#: ../includes/locals.php:66
+#@ CURRENT_THEME
+msgid "Uncategorized"
+msgstr "Non classé"
+
+#: ../includes/locals.php:67
+#@ CURRENT_THEME
+msgid "Last"
+msgstr "dernier"
+
+#: ../includes/locals.php:68
+#@ CURRENT_THEME
+msgid "First"
+msgstr "première"
+
+#: ../includes/locals.php:69
+#@ CURRENT_THEME
+msgid "Delete"
+msgstr "effacer"
+
+#: ../includes/locals.php:70
+#@ CURRENT_THEME
+msgid "Wide"
+msgstr "Large"
+
+#: ../includes/locals.php:71
+#@ CURRENT_THEME
+msgid "Boxed"
+msgstr "Encadré"
+
+#: ../includes/locals.php:74
+#@ CURRENT_THEME
+msgid "Previous"
+msgstr "précédent"
+
+#: ../includes/locals.php:75
+#@ CURRENT_THEME
+msgid "Next"
+msgstr "suivant"
+
+#: ../includes/locals.php:76
+#@ CURRENT_THEME
+msgid "Play"
+msgstr "Play"
+
+#: ../includes/locals.php:77
+#@ CURRENT_THEME
+msgid "Pause"
+msgstr "Pause"
+
+#: ../includes/locals.php:78
+#@ CURRENT_THEME
+msgid "Stop"
+msgstr "Stop"
+
+#: ../includes/locals.php:79
+#@ CURRENT_THEME
+msgid "Mute"
+msgstr "Mute"
+
+#: ../includes/locals.php:80
+#@ CURRENT_THEME
+msgid "Unmute"
+msgstr "Activer"
+
+#: ../includes/locals.php:81
+#@ CURRENT_THEME
+msgid "<span>Update Required. </span>To play the media you will need to either update your browser to a recent version or update your <a href='//get.adobe.com/flashplayer/' target='_blank'>Flash plugin</a>."
+msgstr "<span>Mise à jour requise. </span>Pour afficher ce fichier vous devez mettre à jour votre navigateur vers une version plus récente ou mettre à jour <a href='//get.adobe.com/flashplayer/' target='_blank'>le plus Flash</a>."
+
+#: ../includes/locals.php:84
+#@ CURRENT_THEME
+msgid "Cherry Options"
+msgstr "options de cerises"
+
+#: ../includes/locals.php:85
+#@ CURRENT_THEME
+msgid "Customize"
+msgstr "personnaliser"
+
+#: ../includes/locals.php:86
+#@ CURRENT_THEME
+msgid "Support"
+msgstr "soutien"
+
+#: ../includes/locals.php:87
+#@ CURRENT_THEME
+msgid "Documentation"
+msgstr "documentation"
+
+#: ../includes/locals.php:88
+#@ CURRENT_THEME
+msgid "Save Options"
+msgstr "options d'enregistrement"
+
+#: ../includes/locals.php:89
+#@ CURRENT_THEME
+msgid "Restore Defaults"
+msgstr "restaurer les paramètres par défaut"
+
+#: ../includes/locals.php:90
+#@ CURRENT_THEME
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr "Cliquez sur OK pour réinitialiser. Tous les paramètres de thème seront perdues!"
+
+#: ../includes/locals.php:93
+#@ CURRENT_THEME
+msgid "General"
+msgstr "général"
+
+#: ../includes/locals.php:94
+#@ CURRENT_THEME
+msgid "Body styling"
+msgstr "Style de carrosserie"
+
+#: ../includes/locals.php:95
+#@ CURRENT_THEME
+msgid "Change the background style"
+msgstr "Changez le style de fond"
+
+#: ../includes/locals.php:96
+#@ CURRENT_THEME
+msgid "Body Background Image"
+msgstr "Image de fond de la page"
+
+#: ../includes/locals.php:97
+#@ CURRENT_THEME
+msgid "Body Background Color"
+msgstr "Couleur de fond de la page"
+
+#: ../includes/locals.php:98
+#@ CURRENT_THEME
+msgid "Header Image"
+msgstr "Image du Header"
+
+#: ../includes/locals.php:99
+#@ CURRENT_THEME
+msgid "Header Color"
+msgstr "Couleur du Header"
+
+#: ../includes/locals.php:101
+#@ CURRENT_THEME
+msgid "Select layout for Your site"
+msgstr "Sélectionner une mise en page pour votre site"
+
+#: ../includes/locals.php:102
+#@ CURRENT_THEME
+msgid "Main background color"
+msgstr "Couleur de fond principale"
+
+#: ../includes/locals.php:103
+#@ CURRENT_THEME
+msgid "Change the main background color"
+msgstr "Changer la couleur de fond principale"
+
+#: ../includes/locals.php:104
+#@ CURRENT_THEME
+msgid "Header styling"
+msgstr "Style du header"
+
+#: ../includes/locals.php:105
+#@ CURRENT_THEME
+msgid "Change the header style"
+msgstr "Changer le style du header"
+
+#: ../includes/locals.php:106
+#@ CURRENT_THEME
+msgid "Link color"
+msgstr "Couleur des liens"
+
+#: ../includes/locals.php:107
+#@ CURRENT_THEME
+msgid "Change the color of link"
+msgstr "Changez la couleur de lien"
+
+#: ../includes/locals.php:108
+#@ CURRENT_THEME
+msgid "Link color hover"
+msgstr "Couleur des liens hover"
+
+#: ../includes/locals.php:109
+#@ CURRENT_THEME
+msgid "Change the color of link hover state"
+msgstr "Changez la couleur de l'état stationnaire lien"
+
+#: ../includes/locals.php:110
+#@ CURRENT_THEME
+msgid "Body Text"
+msgstr "corps du texte"
+
+#: ../includes/locals.php:111
+#@ CURRENT_THEME
+msgid "Choose your prefered font for body text. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour le texte de la page. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:112
+#@ CURRENT_THEME
+msgid "H1 Heading"
+msgstr "Rubrique H1"
+
+#: ../includes/locals.php:113
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H1 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H1. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:114
+#@ CURRENT_THEME
+msgid "H2 Heading"
+msgstr "Rubrique H2>"
+
+#: ../includes/locals.php:115
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H2 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H2. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:116
+#@ CURRENT_THEME
+msgid "H3 Heading"
+msgstr "Rubrique H3"
+
+#: ../includes/locals.php:117
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H3 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H3. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:118
+#@ CURRENT_THEME
+msgid "H4 Heading"
+msgstr "Rubrique H4"
+
+#: ../includes/locals.php:119
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H4 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H4. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:120
+#@ CURRENT_THEME
+msgid "H5 Heading"
+msgstr "Rubrique H5"
+
+#: ../includes/locals.php:121
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H5 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H5. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:122
+#@ CURRENT_THEME
+msgid "H6 Heading"
+msgstr "Rubrique H6"
+
+#: ../includes/locals.php:123
+#@ CURRENT_THEME
+msgid "Choose your prefered font for H6 heading and titles. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour les titres H6. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:124
+#@ CURRENT_THEME
+msgid "Display search box?"
+msgstr "Afficher la boîte de recherche?"
+
+#: ../includes/locals.php:125
+#@ CURRENT_THEME
+msgid "Display search box in the header?"
+msgstr "Afficher la boîte de recherche dans l'en-tête?"
+
+#: ../includes/locals.php:126
+#@ CURRENT_THEME
+msgid "Display breadcrumbs?"
+msgstr "Afficher chapelure?"
+
+#: ../includes/locals.php:127
+#@ CURRENT_THEME
+msgid "Display breadcrumbs in the page?"
+msgstr "Afficher chapelure dans la page"
+
+#: ../includes/locals.php:128
+#@ CURRENT_THEME
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: ../includes/locals.php:129
+#@ CURRENT_THEME
+msgid "Want to add any custom CSS code? Put in here, and the rest is taken care of. This overrides any other stylesheets. eg: a.button{color:green}"
+msgstr "Vous voulez ajouter du code CSS personnalisé? Mettez ici, et le reste est pris en charge. Ceci remplace toutes les autres feuilles de style. par exemple: a.button {color: green}"
+
+#: ../includes/locals.php:132
+#@ CURRENT_THEME
+msgid "Logo"
+msgstr "Logo"
+
+#: ../includes/locals.php:133
+#@ CURRENT_THEME
+msgid "Logo & Favicon"
+msgstr "Logo & Favicon"
+
+#: ../includes/locals.php:134
+#@ CURRENT_THEME
+msgid "What kind of logo?"
+msgstr "Quel type de logo?"
+
+#: ../includes/locals.php:135
+#@ CURRENT_THEME
+msgid "Select whether you want your main logo to be an image or text. If you select \"image\" you can put in the image url in the next option, and if you select \"text\" your Site Title will be shown instead."
+msgstr "Choisissez si vous voulez que votre logo principal soit une image ou un texte. Si vous choisissez \"l'image \" vous pouvez mettre dans l'image url dans l'option suivante(prochaine) et si vous choisissez \"le texte \" votre Titre de Site montrera au lieu de cela.Choisissez si vous voulez que votre logo principal soit une image ou un texte. Si vous choisissez \"l'image \" vous pouvez mettre dans l'image url dans l'option suivante(prochaine) et si vous choisissez \"le texte \" votre Titre de Site montrera au lieu de cela."
+
+#: ../includes/locals.php:136
+#@ CURRENT_THEME
+msgid "Image Logo"
+msgstr "image Logo"
+
+#: ../includes/locals.php:137
+#@ CURRENT_THEME
+msgid "Text Logo"
+msgstr "Logo du texte"
+
+#: ../includes/locals.php:138
+#@ CURRENT_THEME
+msgid "Logo Typography"
+msgstr "logo Typographie"
+
+#: ../includes/locals.php:139 ../includes/locals.php:149
+#@ CURRENT_THEME
+msgid "Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour le menu. <em>Remarque: les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:140
+#@ CURRENT_THEME
+msgid "Logo Image Path"
+msgstr "Logo Chemin>"
+
+#: ../includes/locals.php:141
+#@ CURRENT_THEME
+msgid "Click Upload or Enter the direct path to your <strong>logo image</strong>. For example <em>//your_website_url_here/wp-content/themes/themeXXXX/images/logo.png</em>"
+msgstr "Cliquez sur télécharger ou entrez le chemin direct vers <strong>l'image de votre logo</strong>. Par exemple <em>//adresse de votre site ici/wp-content/themes/themeXXXX/images/logo.png</em>"
+
+#: ../includes/locals.php:142
+#@ CURRENT_THEME
+msgid "Favicon"
+msgstr "Favicon"
+
+#: ../includes/locals.php:143
+#@ CURRENT_THEME
+msgid "Click Upload or Enter the direct path to your <strong>favicon</strong>. For example <em>//your_website_url_here/wp-content/themes/themeXXXX/favicon.ico</em>"
+msgstr "Cliquez sur télécharger ou entrez le chemin direct vers votre <strong>favicon</strong>. Par exemple <em>//adresse de votre site ici/wp-content/themes/themeXXXX/favicon.ico</em>"
+
+#: ../includes/locals.php:144
+#@ CURRENT_THEME
+msgid "Logo Color"
+msgstr "Couleur du logo"
+
+#: ../includes/locals.php:147
+#@ CURRENT_THEME
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../includes/locals.php:148
+#@ CURRENT_THEME
+msgid "Menu Typography"
+msgstr "Menu Typographie"
+
+#: ../includes/locals.php:150
+#@ CURRENT_THEME
+msgid "Delay"
+msgstr "retard"
+
+#: ../includes/locals.php:151
+#@ CURRENT_THEME
+msgid "Miliseconds delay on mouseout."
+msgstr "Millisecondes de retard sur mouseout."
+
+#: ../includes/locals.php:152
+#@ CURRENT_THEME
+msgid "Fade-in animation"
+msgstr "Fondu dans l'animation"
+
+#: ../includes/locals.php:153
+#@ CURRENT_THEME
+msgid "Fade-in animation."
+msgstr "Fondu dans l'animation."
+
+#: ../includes/locals.php:154 ../includes/locals.php:155
+#@ CURRENT_THEME
+msgid "Slide-down animation."
+msgstr "Faites glisser vers le bas animation."
+
+#: ../includes/locals.php:156
+#@ CURRENT_THEME
+msgid "Enable fade-in animation"
+msgstr "Activer l'animation de fade-in"
+
+#: ../includes/locals.php:157
+#@ CURRENT_THEME
+msgid "Disable fade-in animation"
+msgstr "Désactiver l'animation de fade-in"
+
+#: ../includes/locals.php:158
+#@ CURRENT_THEME
+msgid "Enable slide-down animation"
+msgstr "Activer animation glisser vers le bas"
+
+#: ../includes/locals.php:159
+#@ CURRENT_THEME
+msgid "Disable slide-down animation"
+msgstr "Désactiver l'animation glisser vers le bas"
+
+#: ../includes/locals.php:160
+#@ CURRENT_THEME
+msgid "Speed"
+msgstr "vitesse"
+
+#: ../includes/locals.php:161
+#@ CURRENT_THEME
+msgid "Animation speed."
+msgstr "Vitesse d'animation."
+
+#: ../includes/locals.php:162
+#@ CURRENT_THEME
+msgid "Arrows markup."
+msgstr "Flèches balisage."
+
+#: ../includes/locals.php:163
+#@ CURRENT_THEME
+msgid "Do you want to generate arrow mark-up?"
+msgstr "Voulez-vous générer flèche majoration?"
+
+#: ../includes/locals.php:164
+#@ CURRENT_THEME
+msgid "Mobile menu label."
+msgstr "Étiquette de menu Mobile."
+
+#: ../includes/locals.php:165
+#@ CURRENT_THEME
+msgid "This text is visible in mobile select menu."
+msgstr "Ce texte est visible dans le menu de sélection mobile."
+
+#: ../includes/locals.php:166
+#@ CURRENT_THEME
+msgid "Navigate to..."
+msgstr "Accédez à ..."
+
+#: ../includes/locals.php:167
+#@ CURRENT_THEME
+msgid "Header Menu Font"
+msgstr "Police d'écriture du menu supérieur"
+
+#: ../includes/locals.php:168
+#@ CURRENT_THEME
+msgid "Header Menu Color"
+msgstr "Couleur du menu supérieur"
+
+#: ../includes/locals.php:171
+#@ CURRENT_THEME
+msgid "Slider Settings"
+msgstr "Paramètres Slider"
+
+#: ../includes/locals.php:172
+#@ CURRENT_THEME
+msgid "Slider"
+msgstr "Slider"
+
+#: ../includes/locals.php:173
+#@ CURRENT_THEME
+msgid "The type of slider"
+msgstr "Le type de curseur"
+
+#: ../includes/locals.php:174
+#@ CURRENT_THEME
+msgid "You can choose the type of slider that suits you best."
+msgstr "Vous pouvez choisir le type de curseur qui vous convient le mieux."
+
+#: ../includes/locals.php:175
+#@ CURRENT_THEME
+msgid "Disable slider"
+msgstr "désactiver curseur"
+
+#: ../includes/locals.php:176 ../includes/locals.php:222
+#: ../includes/locals.php:498
+#@ CURRENT_THEME
+msgid "Slideshow"
+msgstr "diaporama"
+
+#: ../includes/locals.php:177 ../includes/locals.php:484
+#@ CURRENT_THEME
+msgid "Slides"
+msgstr "diapositives"
+
+#: ../includes/locals.php:178
+#@ CURRENT_THEME
+msgid "Sliding effect"
+msgstr "effet de glissement"
+
+#: ../includes/locals.php:179
+#@ CURRENT_THEME
+msgid "Select your animation type."
+msgstr "Choisissez votre type d'animation."
+
+#: ../includes/locals.php:180
+#@ CURRENT_THEME
+msgid "random"
+msgstr "aléatoire"
+
+#: ../includes/locals.php:181
+#@ CURRENT_THEME
+msgid "simpleFade"
+msgstr "simples Fade"
+
+#: ../includes/locals.php:182
+#@ CURRENT_THEME
+msgid "curtainTopLeft"
+msgstr "rideau en haut à gauche"
+
+#: ../includes/locals.php:183
+#@ CURRENT_THEME
+msgid "curtainTopRight"
+msgstr "rideau en haut à droite"
+
+#: ../includes/locals.php:184
+#@ CURRENT_THEME
+msgid "curtainBottomLeft"
+msgstr "rideau bas à gauche"
+
+#: ../includes/locals.php:185
+#@ CURRENT_THEME
+msgid "curtainBottomRight"
+msgstr "rideau bas à droite"
+
+#: ../includes/locals.php:186
+#@ CURRENT_THEME
+msgid "curtainSliceLeft"
+msgstr "Rideaux poux Gauche"
+
+#: ../includes/locals.php:187
+#@ CURRENT_THEME
+msgid "curtainSliceRight"
+msgstr "Rideaux poux droit"
+
+#: ../includes/locals.php:188
+#@ CURRENT_THEME
+msgid "blindCurtainTopLeft"
+msgstr "aveugle rideau en haut à gauche"
+
+#: ../includes/locals.php:189
+#@ CURRENT_THEME
+msgid "blindCurtainTopRight"
+msgstr "aveugle rideau haut à droite"
+
+#: ../includes/locals.php:190
+#@ CURRENT_THEME
+msgid "blindCurtainBottomLeft"
+msgstr "Rideau aveugle bas à gauche"
+
+#: ../includes/locals.php:191
+#@ CURRENT_THEME
+msgid "blindCurtainBottomRight"
+msgstr "Rideau aveugle bas à droite"
+
+#: ../includes/locals.php:192
+#@ CURRENT_THEME
+msgid "blindCurtainSliceBottom"
+msgstr "aveugle Bas rideau Slice"
+
+#: ../includes/locals.php:193
+#@ CURRENT_THEME
+msgid "blindCurtainSliceTop"
+msgstr "aveugle rideau tranche supérieure"
+
+#: ../includes/locals.php:194
+#@ CURRENT_THEME
+msgid "stampede"
+msgstr "bousculade"
+
+#: ../includes/locals.php:195
+#@ CURRENT_THEME
+msgid "mosaic"
+msgstr "mosaïque"
+
+#: ../includes/locals.php:196
+#@ CURRENT_THEME
+msgid "mosaicReverse"
+msgstr "mosaïque n º"
+
+#: ../includes/locals.php:197
+#@ CURRENT_THEME
+msgid "mosaicRandom"
+msgstr "mosaïque aléatoire"
+
+#: ../includes/locals.php:198
+#@ CURRENT_THEME
+msgid "mosaicSpiral"
+msgstr "mosaïque en spirale"
+
+#: ../includes/locals.php:199
+#@ CURRENT_THEME
+msgid "mosaicSpiralReverse"
+msgstr "mosaïque spirale inverse"
+
+#: ../includes/locals.php:200
+#@ CURRENT_THEME
+msgid "topLeftBottomRight"
+msgstr "En haut à gauche En bas à droite"
+
+#: ../includes/locals.php:201
+#@ CURRENT_THEME
+msgid "bottomRightTopLeft"
+msgstr "En bas à droite en haut à gauche"
+
+#: ../includes/locals.php:202
+#@ CURRENT_THEME
+msgid "bottomLeftTopRight"
+msgstr "En bas à gauche En haut à droite"
+
+#: ../includes/locals.php:203 ../includes/locals.php:204
+#@ CURRENT_THEME
+msgid "Number of columns"
+msgstr "Nombre de colonnes"
+
+#: ../includes/locals.php:205 ../includes/locals.php:206
+#@ CURRENT_THEME
+msgid "Number of rows"
+msgstr "Nombre de lignes"
+
+#: ../includes/locals.php:207
+#@ CURRENT_THEME
+msgid "Banner effect"
+msgstr "Effet de la bannière"
+
+#: ../includes/locals.php:208
+#@ CURRENT_THEME
+msgid "moveFromLeft"
+msgstr "déplacer de gauche"
+
+#: ../includes/locals.php:209
+#@ CURRENT_THEME
+msgid "moveFromRight"
+msgstr "déplacer de droite"
+
+#: ../includes/locals.php:210
+#@ CURRENT_THEME
+msgid "moveFromTop"
+msgstr "déplacer De Haut"
+
+#: ../includes/locals.php:211
+#@ CURRENT_THEME
+msgid "moveFromBottom"
+msgstr "déplacer à partir du bas"
+
+#: ../includes/locals.php:212
+#@ CURRENT_THEME
+msgid "fadeIn"
+msgstr "fade In"
+
+#: ../includes/locals.php:213
+#@ CURRENT_THEME
+msgid "fadeFromLeft"
+msgstr "s'estomper De Gauche"
+
+#: ../includes/locals.php:214
+#@ CURRENT_THEME
+msgid "fadeFromRight"
+msgstr "s'estomper De droit"
+
+#: ../includes/locals.php:215
+#@ CURRENT_THEME
+msgid "fadeFromTop"
+msgstr "s'estomper à partir du haut"
+
+#: ../includes/locals.php:216
+#@ CURRENT_THEME
+msgid "fadeFromBottom"
+msgstr "s'estomper à partir du bas"
+
+#: ../includes/locals.php:217
+#@ CURRENT_THEME
+msgid "Select your banner animation type."
+msgstr "Sélectionnez votre bannière type d'animation."
+
+#: ../includes/locals.php:218
+#@ CURRENT_THEME
+msgid "Pause time"
+msgstr "temps de pause"
+
+#: ../includes/locals.php:219
+#@ CURRENT_THEME
+msgid "Pause time (ms)."
+msgstr "Temps de pause (ms)."
+
+#: ../includes/locals.php:220
+#@ CURRENT_THEME
+msgid "Animation speed"
+msgstr "Vitesse d'animation"
+
+#: ../includes/locals.php:221
+#@ CURRENT_THEME
+msgid "Animation speed (ms)"
+msgstr "Vitesse d'animation (ms)"
+
+#: ../includes/locals.php:223
+#@ CURRENT_THEME
+msgid "Animate slider automatically?"
+msgstr "Animer curseur automatiquement?"
+
+#: ../includes/locals.php:224
+#@ CURRENT_THEME
+msgid "Thumbnails"
+msgstr "vignettes"
+
+#: ../includes/locals.php:225
+#@ CURRENT_THEME
+msgid "Display thumbnails?"
+msgstr "Afficher les vignettes?"
+
+#: ../includes/locals.php:226
+#@ CURRENT_THEME
+msgid "Pagination"
+msgstr "pagination"
+
+#: ../includes/locals.php:227
+#@ CURRENT_THEME
+msgid "Display pagination?"
+msgstr "Afficher la pagination?"
+
+#: ../includes/locals.php:228
+#@ CURRENT_THEME
+msgid "Next & Prev navigation"
+msgstr "Suivant et Précédent navigation"
+
+#: ../includes/locals.php:229
+#@ CURRENT_THEME
+msgid "Display next & prev navigation?"
+msgstr "Afficher la navigation suivant et précédent?"
+
+#: ../includes/locals.php:230
+#@ CURRENT_THEME
+msgid "Display next & prev navigation only on hover?"
+msgstr "Afficher la navigation suivant et précédent que sur le vol stationnaire?"
+
+#: ../includes/locals.php:231
+#@ CURRENT_THEME
+msgid "If true the navigation button (prev, next and play/stop buttons) will be visible on hover state only, if false they will be visible always"
+msgstr "Si true, le bouton de navigation (précédent, suivant et lecture / boutons arrêt) sera visible sur l'état stationnaire que, si elle est fausse, ils seront toujours visible"
+
+#: ../includes/locals.php:232
+#@ CURRENT_THEME
+msgid "Play/Pause button"
+msgstr "Bouton Lecture / Pause"
+
+#: ../includes/locals.php:233
+#@ CURRENT_THEME
+msgid "Display Play/Pause button?"
+msgstr "Bouton Affichage Lecture / Pause?"
+
+#: ../includes/locals.php:234
+#@ CURRENT_THEME
+msgid "Loader"
+msgstr "chargeur"
+
+#: ../includes/locals.php:235
+#@ CURRENT_THEME
+msgid "Slider loader"
+msgstr "curseur chargeur"
+
+#: ../includes/locals.php:236
+#@ CURRENT_THEME
+msgid "Pie"
+msgstr "tarte"
+
+#: ../includes/locals.php:237
+#@ CURRENT_THEME
+msgid "Bar"
+msgstr "bar"
+
+#: ../includes/locals.php:240
+#@ CURRENT_THEME
+msgid "Slides to display"
+msgstr "Diapositives à afficher"
+
+#: ../includes/locals.php:241
+#@ CURRENT_THEME
+msgid "Select the slides that you want to be displayed on slider. If no slide is selected, all slides will be displayed."
+msgstr "Sélectionnez les diapositives que vous souhaitez afficher sur curseur. Si aucune diapositive est sélectionnée, toutes les diapositives seront affichées."
+
+#: ../includes/locals.php:242
+#@ CURRENT_THEME
+msgid "Pause on mouseover"
+msgstr "Pause sur la souris sur"
+
+#: ../includes/locals.php:243
+#@ CURRENT_THEME
+msgid "The auto play will pause when you mouse over the slider."
+msgstr "La lecture automatique se met en pause quand vous passez la souris sur le curseur."
+
+#: ../includes/locals.php:244
+#@ CURRENT_THEME
+msgid "Animation slowdown"
+msgstr "Animations ralentissement"
+
+#: ../includes/locals.php:245
+#@ CURRENT_THEME
+msgid "You can choose different types of animation slowdown for transition of slides."
+msgstr "Vous pouvez choisir différents types d'animation ralentissement de la transition de diapositive"
+
+#: ../includes/locals.php:246
+#@ CURRENT_THEME
+msgid "Mouse events for transition of slides"
+msgstr "es événements de souris pour la transition de diapositives"
+
+#: ../includes/locals.php:247
+#@ CURRENT_THEME
+msgid "You can choose different types of mouse events for transition of slides."
+msgstr "Vous pouvez choisir différents types d'événements de souris pour la transition de diapositives."
+
+#: ../includes/locals.php:248
+#@ CURRENT_THEME
+msgid "Click"
+msgstr "Cliquez"
+
+#: ../includes/locals.php:249
+#@ CURRENT_THEME
+msgid "Mouseover"
+msgstr "Déplacez votre curseur"
+
+#: ../includes/locals.php:250
+#@ CURRENT_THEME
+msgid "Double click"
+msgstr "Double-cliquez"
+
+#: ../includes/locals.php:251
+#@ CURRENT_THEME
+msgid "Active slide"
+msgstr "diapositive active"
+
+#: ../includes/locals.php:252
+#@ CURRENT_THEME
+msgid "Set the number of slide that will be active by default. If the value is 0, all slides will be of the same width when page loads."
+msgstr "Définissez le nombre de diapositive qui sera activé par défaut. Si la valeur est 0, toutes les diapositives seront de la même largeur lorsque chargement de la page."
+
+#: ../includes/locals.php:253
+#@ CURRENT_THEME
+msgid "linear"
+msgstr "linéaire"
+
+#: ../includes/locals.php:254
+#@ CURRENT_THEME
+msgid "easeInSine"
+msgstr "Dans faciliter Sine"
+
+#: ../includes/locals.php:255
+#@ CURRENT_THEME
+msgid "easeOutSine"
+msgstr "Tirez sur Sine"
+
+#: ../includes/locals.php:256
+#@ CURRENT_THEME
+msgid "easeInOutSine"
+msgstr "Dans faciliter Me connecter"
+
+#: ../includes/locals.php:257
+#@ CURRENT_THEME
+msgid "easeInQuad"
+msgstr "faciliter En Quad"
+
+#: ../includes/locals.php:258
+#@ CURRENT_THEME
+msgid "easeOutQuad"
+msgstr "faciliter Out Quad"
+
+#: ../includes/locals.php:259
+#@ CURRENT_THEME
+msgid "easeInOutQuad"
+msgstr "faciliter In Out Quad"
+
+#: ../includes/locals.php:260
+#@ CURRENT_THEME
+msgid "easeInCubic"
+msgstr "Dans faciliter cubique"
+
+#: ../includes/locals.php:261
+#@ CURRENT_THEME
+msgid "easeOutCubic"
+msgstr "faciliter Out cubique"
+
+#: ../includes/locals.php:262
+#@ CURRENT_THEME
+msgid "easeInOutCubic"
+msgstr "faciliter In Out cubique"
+
+#: ../includes/locals.php:263
+#@ CURRENT_THEME
+msgid "easeInQuart"
+msgstr "Facilité à Quart"
+
+#: ../includes/locals.php:264
+#@ CURRENT_THEME
+msgid "easeOutQuart"
+msgstr "faciliter Out Quart"
+
+#: ../includes/locals.php:265
+#@ CURRENT_THEME
+msgid "easeInOutQuart"
+msgstr "faciliter In Out Quart"
+
+#: ../includes/locals.php:266
+#@ CURRENT_THEME
+msgid "easeInQuint"
+msgstr "Facilité à Quint"
+
+#: ../includes/locals.php:267
+#@ CURRENT_THEME
+msgid "easeOutQuint"
+msgstr "faciliter Out Quint"
+
+#: ../includes/locals.php:268
+#@ CURRENT_THEME
+msgid "easeInOutQuint"
+msgstr "faciliter In Out Quint"
+
+#: ../includes/locals.php:269
+#@ CURRENT_THEME
+msgid "easeInExpo"
+msgstr "Dans faciliter Expo"
+
+#: ../includes/locals.php:270
+#@ CURRENT_THEME
+msgid "easeOutExpo"
+msgstr "faciliter Out Expo"
+
+#: ../includes/locals.php:271
+#@ CURRENT_THEME
+msgid "easeInOutExpo"
+msgstr "Dans faciliter Expo Out"
+
+#: ../includes/locals.php:272
+#@ CURRENT_THEME
+msgid "easeInCirc"
+msgstr "l'aise dans Circ"
+
+#: ../includes/locals.php:273
+#@ CURRENT_THEME
+msgid "easeOutCirc"
+msgstr "faciliter Out Circ"
+
+#: ../includes/locals.php:274
+#@ CURRENT_THEME
+msgid "easeInOutCirc"
+msgstr "faciliter Out Circ..."
+
+#: ../includes/locals.php:275
+#@ CURRENT_THEME
+msgid "easeInBack"
+msgstr "faciliter In Out Circ"
+
+#: ../includes/locals.php:276
+#@ CURRENT_THEME
+msgid "easeOutBack"
+msgstr "faciliter Out Back"
+
+#: ../includes/locals.php:277
+#@ CURRENT_THEME
+msgid "easeInOutBack"
+msgstr "Dans faciliter Out Back"
+
+#: ../includes/locals.php:278
+#@ CURRENT_THEME
+msgid "easeInElastic"
+msgstr "Facilité à élastique"
+
+#: ../includes/locals.php:279
+#@ CURRENT_THEME
+msgid "easeOutElastic"
+msgstr "faciliter rupture élastique"
+
+#: ../includes/locals.php:280
+#@ CURRENT_THEME
+msgid "easeInOutElastic"
+msgstr "faciliter En rupture élastique"
+
+#: ../includes/locals.php:281
+#@ CURRENT_THEME
+msgid "easeInBounce"
+msgstr "Introduisez délicatement Rebond"
+
+#: ../includes/locals.php:282
+#@ CURRENT_THEME
+msgid "easeOutBounce"
+msgstr "faciliter Out Bounce"
+
+#: ../includes/locals.php:283
+#@ CURRENT_THEME
+msgid "easeInOutBounce"
+msgstr "faciliter In Out Bounce"
+
+#: ../includes/locals.php:286
+#@ CURRENT_THEME
+msgid "Blog"
+msgstr "Blog"
+
+#: ../includes/locals.php:287
+#@ CURRENT_THEME
+msgid "Blog Title"
+msgstr "Titre du blog"
+
+#: ../includes/locals.php:288
+#@ CURRENT_THEME
+msgid "Enter Your Blog Title used on Blog page."
+msgstr "Entrez votre blog Titre utilisé sur la page Blog."
+
+#: ../includes/locals.php:289
+#@ CURRENT_THEME
+msgid "Related Posts Title"
+msgstr "Titre de Postes Lié"
+
+#: ../includes/locals.php:290
+#@ CURRENT_THEME
+msgid "Enter Your Title used on Single Post page for related posts."
+msgstr "Entrez dans Votre Titre utilisé à la page Postale Seule pour des postes liés."
+
+#: ../includes/locals.php:291
+#@ CURRENT_THEME
+msgid "Related Posts"
+msgstr "Postes Liés"
+
+#: ../includes/locals.php:292
+#@ CURRENT_THEME
+msgid "Blog layout"
+msgstr "Disposition du blog"
+
+#: ../includes/locals.php:293
+#@ CURRENT_THEME
+msgid "Choose blog layout."
+msgstr "Choisissez la disposition de blog."
+
+#: ../includes/locals.php:294
+#@ CURRENT_THEME
+msgid "Aside left."
+msgstr "De côté gauche."
+
+#: ../includes/locals.php:295
+#@ CURRENT_THEME
+msgid "Aside right."
+msgstr "De côté droit."
+
+#: ../includes/locals.php:296
+#@ CURRENT_THEME
+msgid "Full width."
+msgstr "Largeur pleine."
+
+#: ../includes/locals.php:297
+#@ CURRENT_THEME
+msgid "Masonry."
+msgstr "Maçonnerie."
+
+#: ../includes/locals.php:298
+#@ CURRENT_THEME
+msgid "Blog image size"
+msgstr "Taille d'image de blog"
+
+#: ../includes/locals.php:299
+#@ CURRENT_THEME
+msgid "Featured image size on the blog."
+msgstr "Taille d'image Représentée sur le blog."
+
+#: ../includes/locals.php:300
+#@ CURRENT_THEME
+msgid "Should images be uploaded on page scroll?"
+msgstr "Les images devraient-elles être téléchargées sur le rouleau de page ?"
+
+#: ../includes/locals.php:301
+#@ CURRENT_THEME
+msgid "You can enable images load only as you scroll down the page. Otherwise images will load all at once."
+msgstr "Vous pouvez activer les images se chargent uniquement lorsque vous faites défiler la page. Sinon images se chargent à la fois."
+
+#: ../includes/locals.php:302 ../includes/locals.php:303
+#@ CURRENT_THEME
+msgid "Display share button in single post?"
+msgstr "Afficher le bouton de l'action en seul poste?"
+
+#: ../includes/locals.php:304
+#@ CURRENT_THEME
+msgid "Single post image size"
+msgstr "Taille unique poste d'image"
+
+#: ../includes/locals.php:305
+#@ CURRENT_THEME
+msgid "Featured image size on the single page."
+msgstr "Taille de l'image sélectionnée sur la page unique."
+
+#: ../includes/locals.php:306
+#@ CURRENT_THEME
+msgid "View meta of the blog."
+msgstr "Voir méta du blog."
+
+#: ../includes/locals.php:307
+#@ CURRENT_THEME
+msgid "Select meta block type which will be displayed on blog and post pages."
+msgstr "Sélectionnez méta type de bloc qui sera affiché sur le blog et soumettre pages."
+
+#: ../includes/locals.php:308
+#@ CURRENT_THEME
+msgid "Enable excerpt for blog posts?"
+msgstr "Activer extrait de blog?"
+
+#: ../includes/locals.php:309
+#@ CURRENT_THEME
+msgid "Enable or Disable excerpt for blog posts."
+msgstr "Activer ou désactiver extrait de blog."
+
+#: ../includes/locals.php:310 ../includes/locals.php:311
+#@ CURRENT_THEME
+msgid "Button text for blog posts."
+msgstr "Texte du bouton pour les messages blog .."
+
+#: ../includes/locals.php:312
+#@ CURRENT_THEME
+msgid "Do not show."
+msgstr "Ne pas montrer."
+
+#: ../includes/locals.php:313
+#@ CURRENT_THEME
+msgid "Lines."
+msgstr "Lignes."
+
+#: ../includes/locals.php:314
+#@ CURRENT_THEME
+msgid "Columns."
+msgstr "Colonnes."
+
+#: ../includes/locals.php:315
+#@ CURRENT_THEME
+msgid "Icons."
+msgstr "Icônes."
+
+#: ../includes/locals.php:316
+#@ CURRENT_THEME
+msgid "Post publication date."
+msgstr "Poster date de publication."
+
+#: ../includes/locals.php:317
+#@ CURRENT_THEME
+msgid "Should the post publication date be displayed?"
+msgstr "Si la date de publication poste affiché?"
+
+#: ../includes/locals.php:318
+#@ CURRENT_THEME
+msgid "Author of the post."
+msgstr "Auteur de la poste."
+
+#: ../includes/locals.php:319
+#@ CURRENT_THEME
+msgid "Display the author of the post?"
+msgstr "Afficher l'auteur de l'article?"
+
+#: ../includes/locals.php:320
+#@ CURRENT_THEME
+msgid "Direct link to the post."
+msgstr "Lien direct vers le poste."
+
+#: ../includes/locals.php:321
+#@ CURRENT_THEME
+msgid "Should the direct link to the post be displayed? "
+msgstr "Si le lien direct vers le poste affiché?"
+
+#: ../includes/locals.php:322
+#@ CURRENT_THEME
+msgid "Post categories."
+msgstr "Poster catégories."
+
+#: ../includes/locals.php:323
+#@ CURRENT_THEME
+msgid "Should the post categories be displayed?"
+msgstr "Si les catégories de poste sont affichés?"
+
+#: ../includes/locals.php:324
+#@ CURRENT_THEME
+msgid "Tags be displayed."
+msgstr "Balises être affichés."
+
+#: ../includes/locals.php:325
+#@ CURRENT_THEME
+msgid "Should the tags be displayed?"
+msgstr "Si les étiquettes sont affichées?"
+
+#: ../includes/locals.php:326
+#@ CURRENT_THEME
+msgid "Number of comments."
+msgstr "Nombre de commentaires."
+
+#: ../includes/locals.php:327
+#@ CURRENT_THEME
+msgid "Should the number of comments be displayed?"
+msgstr "Si le nombre de commentaires est affiché?"
+
+#: ../includes/locals.php:328 ../includes/locals.php:664
+#@ CURRENT_THEME
+msgid "Number of view."
+msgstr "Nombre de vue."
+
+#: ../includes/locals.php:329
+#@ CURRENT_THEME
+msgid "Should the number of view be displayed?"
+msgstr "Si le nombre de vue affiché?"
+
+#: ../includes/locals.php:330
+#@ CURRENT_THEME
+msgid "Number of likes."
+msgstr "Nombre de J'aime."
+
+#: ../includes/locals.php:331
+#@ CURRENT_THEME
+msgid "Should the number of likes be displayed?"
+msgstr "Si le nombre de aime affiché?"
+
+#: ../includes/locals.php:332
+#@ CURRENT_THEME
+msgid "Number of dislikes."
+msgstr "Nombre de je n'aime pas."
+
+#: ../includes/locals.php:333
+#@ CURRENT_THEME
+msgid "Should the number of dislikes be displayed?"
+msgstr "Le nombre d'aversions devrait-il être montré ?"
+
+#: ../includes/locals.php:337
+#@ CURRENT_THEME
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: ../includes/locals.php:338
+#@ CURRENT_THEME
+msgid "Filter"
+msgstr "Filtre"
+
+#: ../includes/locals.php:339
+#@ CURRENT_THEME
+msgid "Portfolio filter."
+msgstr "Filtre de portefeuille."
+
+#: ../includes/locals.php:340
+#@ CURRENT_THEME
+msgid "By category"
+msgstr "Par catégorie"
+
+#: ../includes/locals.php:341
+#@ CURRENT_THEME
+msgid "By tags"
+msgstr "par mots-clés"
+
+#: ../includes/locals.php:342
+#@ CURRENT_THEME
+msgid "Both (by category and tags)"
+msgstr "Les deux (par catégorie et les tags)"
+
+#: ../includes/locals.php:343
+#@ CURRENT_THEME
+msgid "Show title?"
+msgstr "Afficher le titre?"
+
+#: ../includes/locals.php:344
+#@ CURRENT_THEME
+msgid "Enable or Disable title for portfolio posts."
+msgstr "Activer ou désactiver titre de portefeuille messages."
+
+#: ../includes/locals.php:345
+#@ CURRENT_THEME
+msgid "Show excerpt?"
+msgstr "Voir extrait?"
+
+#: ../includes/locals.php:346
+#@ CURRENT_THEME
+msgid "Enable or Disable excerpt for portfolio posts."
+msgstr "Activer ou désactiver extrait de portefeuille messages."
+
+#: ../includes/locals.php:347 ../includes/locals.php:348
+#@ CURRENT_THEME
+msgid "Button text for portfolio posts."
+msgstr "Texte du bouton de portefeuille messages."
+
+#: ../includes/locals.php:349
+#@ CURRENT_THEME
+msgid "Excerpt words"
+msgstr "Extrait mots"
+
+#: ../includes/locals.php:350
+#@ CURRENT_THEME
+msgid "Excerpt length (words)."
+msgstr "Extrait longueur (mots)."
+
+#: ../includes/locals.php:351
+#@ CURRENT_THEME
+msgid "Show button?"
+msgstr "Afficher le bouton?"
+
+#: ../includes/locals.php:352
+#@ CURRENT_THEME
+msgid "Enable or Disable button for portfolio posts."
+msgstr "Activer ou désactiver le bouton de portefeuille messages."
+
+#: ../includes/locals.php:353
+#@ CURRENT_THEME
+msgid "Show portfolio meta?"
+msgstr "Afficher portefeuille méta?"
+
+#: ../includes/locals.php:354
+#@ CURRENT_THEME
+msgid "Enable or Disable meta for single portfolio posts."
+msgstr "Activer ou désactiver méta pour les postes de portefeuille simples."
+
+#: ../includes/locals.php:355
+#@ CURRENT_THEME
+msgid "Enable or Disable lightbox for portfolio posts."
+msgstr "Activer ou désactiver la visionneuse de portefeuille messages"
+
+#: ../includes/locals.php:356
+#@ CURRENT_THEME
+msgid "Layout"
+msgstr "disposition"
+
+#: ../includes/locals.php:357
+#@ CURRENT_THEME
+msgid "Portfolio has different layout modes. You can set and change the layout mode via this option."
+msgstr "Portefeuille dispose de différents modes de mise en page. Vous pouvez définir et modifier le mode de mise en page via cette option."
+
+#: ../includes/locals.php:358
+#@ CURRENT_THEME
+msgid "Fit rows"
+msgstr "Rangées convenables"
+
+#: ../includes/locals.php:359
+#@ CURRENT_THEME
+msgid "Masonry"
+msgstr "Maçonnerie"
+
+#: ../includes/locals.php:360
+#@ CURRENT_THEME
+msgid "Single portfolio layout"
+msgstr "Mise en page du portfolio unique"
+
+#: ../includes/locals.php:361
+#@ CURRENT_THEME
+msgid "Single portfolio layout."
+msgstr "Mise en page du portfolio unique."
+
+#: ../includes/locals.php:362
+#@ CURRENT_THEME
+msgid "Fullwidth"
+msgstr "Pleine largeur"
+
+#: ../includes/locals.php:363 ../includes/locals.php:696
+#@ CURRENT_THEME
+msgid "Columns"
+msgstr "colonnes"
+
+#: ../includes/locals.php:364
+#@ CURRENT_THEME
+msgid "Portfolio 2 columns items amount"
+msgstr "Portefeuille 2 colonnes articles montant"
+
+#: ../includes/locals.php:365
+#@ CURRENT_THEME
+msgid "Portfolio items amount for Portfolio 2 columns template."
+msgstr "Articles de portefeuille s'élèvent à 2 colonnes portefeuille modèle"
+
+#: ../includes/locals.php:366
+#@ CURRENT_THEME
+msgid "Portfolio 3 columns items amount"
+msgstr "Portefeuille 3 colonnes articles montant"
+
+#: ../includes/locals.php:367
+#@ CURRENT_THEME
+msgid "Portfolio items amount for Portfolio 3 columns template."
+msgstr "Articles de portefeuille s'élèvent pour le portefeuille 3 colonnes modèle."
+
+#: ../includes/locals.php:368
+#@ CURRENT_THEME
+msgid "Portfolio 4 columns items amount"
+msgstr "Portefeuille 4 colonnes articles montant"
+
+#: ../includes/locals.php:369
+#@ CURRENT_THEME
+msgid "Portfolio items amount for Portfolio 4 columns template."
+msgstr "Articles de portefeuille s'élèvent à 4 colonnes portefeuille modèle."
+
+#: ../includes/locals.php:372
+#@ CURRENT_THEME
+msgid "Footer"
+msgstr "Footer"
+
+#: ../includes/locals.php:373
+#@ CURRENT_THEME
+msgid "Footer copyright text"
+msgstr "Footer texte de copyright"
+
+#: ../includes/locals.php:374
+#@ CURRENT_THEME
+msgid "Enter text used in the right side of the footer. HTML tags are allowed."
+msgstr "Entrez le texte utilisé dans le côté droit du pied de page. Les balises HTML sont autorisés."
+
+#: ../includes/locals.php:375
+#@ CURRENT_THEME
+msgid "Google Analytics Code"
+msgstr "Google Code Analytics."
+
+#: ../includes/locals.php:376
+#@ CURRENT_THEME
+msgid "You can paste your Google Analytics or other tracking code in this box. This will be automatically added to the footer."
+msgstr "Vous pouvez coller votre compte Google Analytics ou tout autre code de suivi dans cette case. Ce sera automatiquement ajouté au pied de page."
+
+#: ../includes/locals.php:377
+#@ CURRENT_THEME
+msgid "Feedburner URL"
+msgstr "Feedburner URL"
+
+#: ../includes/locals.php:378
+#@ CURRENT_THEME
+msgid "Feedburner is a Google service that takes care of your RSS feed. Paste your Feedburner URL here to let readers see it in your website."
+msgstr "Feedburner est un service de Google qui prend soin de votre flux RSS. Collez votre URL Feedburner ici pour permettre aux lecteurs de voir dans votre site web."
+
+#: ../includes/locals.php:379
+#@ CURRENT_THEME
+msgid "Display Footer Menu?"
+msgstr "Afficher Footer Menu?"
+
+#: ../includes/locals.php:380
+#@ CURRENT_THEME
+msgid "Do you want to display footer menu?"
+msgstr "Voulez-vous afficher le menu de bas de page?"
+
+#: ../includes/locals.php:381
+#@ CURRENT_THEME
+msgid "Footer Menu Typography"
+msgstr "Footer Menu Typographie"
+
+#: ../includes/locals.php:382
+#@ CURRENT_THEME
+msgid "Choose your prefered font for menu. <em>Note: fonts marked with <strong>*</strong> symbol will be loaded from the <a href=\"//www.google.com/webfonts\">Google Web Fonts</a> library.</em>"
+msgstr "Choisissez votre police d'écriture préférée pour le menu. <em>Remarque : les polices marquées avec le symbole <strong>*</strong> seront chargées à partir de <a href='//www.google.com/webfonts'>Google Web Fonts</a> library.</em>"
+
+#: ../includes/locals.php:383
+#@ CURRENT_THEME
+msgid "Footer Menu Font"
+msgstr "Police d'écriture du menu du bas"
+
+#: ../includes/locals.php:384
+#@ CURRENT_THEME
+msgid "Footer Menu Color"
+msgstr "Couleur du menu du bas"
+
+#: ../includes/locals.php:404
+#@ CURRENT_THEME
+msgid "<span>Step <i>1</i></span>Theme Options Import"
+msgstr "Étape <span> <i>1</i></span> Thème Options d'importation"
+
+#: ../includes/locals.php:405
+#@ CURRENT_THEME
+msgid "Select the file that contains Theme Options (e.g. <b>options.json</b> )"
+msgstr "Sélectionnez le fichier qui contient les options à thème (par exemple <b> options.json </b>)"
+
+#: ../includes/locals.php:406
+#@ CURRENT_THEME
+msgid "Upload File and Import"
+msgstr "Télécharger le fichier et l'importation"
+
+#: ../includes/locals.php:407
+#@ CURRENT_THEME
+msgid "<span>Step <i>1</i></span>Theme Options Export"
+msgstr "Étape <span><i> 1 </i></span> Thème Options d'exportation"
+
+#: ../includes/locals.php:408
+#@ CURRENT_THEME
+msgid "Welcome to the OptionsFramework Backup Manager."
+msgstr "Bienvenue dans le Gestionnaire OptionsFramework Backup."
+
+#: ../includes/locals.php:409
+#@ CURRENT_THEME
+msgid "There was a problem importing your settings. Please Try again."
+msgstr "Il y avait un problème d'importer vos paramètres. S'il vous plaît essayer de nouveau."
+
+#: ../includes/locals.php:410
+#@ CURRENT_THEME
+msgid "There was a problem exporting your settings. Please Try again."
+msgstr "Il y avait un problème d'exporter vos paramètres. S'il vous plaît essayer de nouveau."
+
+#: ../includes/locals.php:411
+#@ CURRENT_THEME
+msgid "The import file you've provided is invalid. Please try again."
+msgstr "Le fichier d'importation que vous avez fourni n'est pas valide. S'il vous plaît essayer à nouveau"
+
+#: ../includes/locals.php:413
+#@ CURRENT_THEME
+msgid "<span>Step <i>1</i></span> Widget Settings Export"
+msgstr "Étape <span> <i> 1 </i> </span> Paramètres des widgets exportation"
+
+#: ../includes/locals.php:414
+#@ CURRENT_THEME
+msgid "<span>Step <i>3</i></span> Widget Settings Import"
+msgstr "Étape <span> <i> 3 </i> </span> Paramètres des widgets importation"
+
+#: ../includes/locals.php:415
+#@ CURRENT_THEME
+msgid "<span>Step <i>4</i></span> Widget Settings Import"
+msgstr "Étape <span> <i> 4 </i> </span> Paramètres des widgets importation"
+
+#: ../includes/locals.php:416
+#@ CURRENT_THEME
+msgid "Import Settings"
+msgstr "Importer les paramètres"
+
+#: ../includes/locals.php:417
+#@ CURRENT_THEME
+msgid "Incorrect file. Please, <a href='admin.php?page=options-framework-import&amp;step=1'>try again</a>."
+msgstr "Fichier incorrect. S'il vous plaît, <a href='admin.php?page=options-framework-import&step=1'>réessayer</a>"
+
+#: ../includes/locals.php:418
+#@ CURRENT_THEME
+msgid "Select the file that contains Widget Settings (e.g. <b>your_template_package/sources/sample_data/widgets.json</b>)"
+msgstr "Sélectionnez le fichier qui contient les paramètres Widget (par exemple <b>your_template_package/theme/sample_data/widgets.json</b>)"
+
+#: ../includes/locals.php:419
+#@ CURRENT_THEME
+msgid "Show Widget Settings"
+msgstr "Afficher les paramètres Widget"
+
+#: ../includes/locals.php:420
+#@ CURRENT_THEME
+msgid "Your have no widgets. Please, click next to go to the next step."
+msgstr "Votre n'ont pas de widgets. S'il vous plaît, cliquez sur Suivant pour passer à l'étape suivante."
+
+#: ../includes/locals.php:421
+#@ CURRENT_THEME
+msgid "Disable the widgets you don't need and click \"Next\". All the selected widgets will be imported into the theme by default."
+msgstr "Désactiver les widgets que vous n'avez pas besoin et cliquez sur \"Suivant \". Tous les widgets sélectionnés seront importées dans le thème par default.p."
+
+#: ../includes/locals.php:422
+#@ CURRENT_THEME
+msgid "go to widgets"
+msgstr "aller aux widgets"
+
+#: ../includes/locals.php:423
+#@ CURRENT_THEME
+msgid "File widgets.json incorrect or empty. For this reason, none of the widget will be imported into your theme."
+msgstr "Fichier widgets.json incorrect ou vide. Pour cette raison, aucun des widgets ne va être importé dans votre thème."
+
+#: ../includes/locals.php:426
+#@ CURRENT_THEME
+msgid "Sorry, there has been an error."
+msgstr "Désolé, il ya eu une erreur."
+
+#: ../includes/locals.php:427
+#@ CURRENT_THEME
+msgid "The file does not exist, please "
+msgstr "N'existe pas le fichier, s'il vous plaît"
+
+#: ../includes/locals.php:428
+#@ CURRENT_THEME
+msgid "Please"
+msgstr "s'il vous plaît"
+
+#: ../includes/locals.php:429
+#, php-format
+#@ CURRENT_THEME
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Ce fichier WXR (version %s) ne peut être pris en charge par cette version de l'importateur. S'il vous plaît envisager de mettre à jour."
+
+#: ../includes/locals.php:430
+#, php-format
+#@ CURRENT_THEME
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr "Le fichier d'exportation n'a pas pu être trouvé à <code>%s</ code>. Il est probable que cela a été causé par un problème d'autorisations."
+
+#: ../includes/locals.php:431
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Impossible d'importer auteur %s. Leurs postes seront attribués à l'utilisateur actuel."
+
+#: ../includes/locals.php:432
+#@ CURRENT_THEME
+msgid "Assign Authors"
+msgstr "attribuer Auteurs"
+
+#: ../includes/locals.php:433
+#@ CURRENT_THEME
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <b>admin</b> entries."
+msgstr "Pour le rendre plus facile pour vous d'éditer et de sauvegarder le contenu importé, vous pouvez réaffecter l'auteur de l'article importé à un utilisateur existant de ce site. Par exemple, vous pouvez importer tous les articles comme <b> administrateur </b> entrées."
+
+#: ../includes/locals.php:434
+#, php-format
+#@ CURRENT_THEME
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Si un nouvel utilisateur est créé par WordPress, un nouveau mot de passe seragénéré aléatoirement et le rôle du nouvel utilisateur sera créé en% s. Modifier manuellement les détails du nouvel utilisateur sera nécessaire."
+
+#: ../includes/locals.php:435
+#@ CURRENT_THEME
+msgid "Download and import file attachments"
+msgstr "Télécharger et fichiers d'importation des pièces jointes"
+
+#: ../includes/locals.php:436
+#@ CURRENT_THEME
+msgid "Import Data"
+msgstr "Importer des données"
+
+#: ../includes/locals.php:437
+#@ CURRENT_THEME
+msgid "Import author:"
+msgstr "Importer auteur:"
+
+#: ../includes/locals.php:438
+#@ CURRENT_THEME
+msgid "assign posts to an existing user:"
+msgstr "attribuer les messages à un utilisateur existant:"
+
+#: ../includes/locals.php:439
+#@ CURRENT_THEME
+msgid "- Select -"
+msgstr "- Sélectionner -"
+
+#: ../includes/locals.php:440
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Impossible de créer un nouvel utilisateur pour %s. Leurs postes seront attribués à l'utilisateur actuel."
+
+#: ../includes/locals.php:441
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import category %s "
+msgstr "Échec de la catégorie importer %s"
+
+#: ../includes/locals.php:442
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import post tag %s"
+msgstr "Impossible d'importer poste tag %s"
+
+#: ../includes/locals.php:443
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import %s %s "
+msgstr "Impossible d'importer %s %s"
+
+#: ../includes/locals.php:444
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s "
+msgstr "Impossible d'importer \"%s\": Invalid type de poste %s"
+
+#: ../includes/locals.php:445
+#, php-format
+#@ CURRENT_THEME
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s \"%s\" existe déjà."
+
+#: ../includes/locals.php:446
+#, php-format
+#@ CURRENT_THEME
+msgid "Failed to import %s &#8220;%s&#8221; "
+msgstr "Impossible d'importer \"%s\"%s"
+
+#: ../includes/locals.php:447
+#@ CURRENT_THEME
+msgid "Menu item skipped due to missing menu slug "
+msgstr "Option de menu sauté en raison du manque Menu limace"
+
+#: ../includes/locals.php:448
+#, php-format
+#@ CURRENT_THEME
+msgid "Menu item skipped due to invalid menu slug: %s "
+msgstr "Option de menu sauté raison au menu invalide limace: %s"
+
+#: ../includes/locals.php:449
+#@ CURRENT_THEME
+msgid "Fetching attachments is not enabled "
+msgstr "Obtention des pièces jointes n'est pas activé"
+
+#: ../includes/locals.php:450
+#@ CURRENT_THEME
+msgid "Invalid file type"
+msgstr "Type de fichier non valide"
+
+#: ../includes/locals.php:451
+#@ CURRENT_THEME
+msgid "Remote server did not respond"
+msgstr "Invalid serveur fichier typeRemote n'a pas répondu"
+
+#: ../includes/locals.php:452
+#, php-format
+#@ CURRENT_THEME
+msgid "Remote server returned error response %1$d %2$s "
+msgstr "Serveur distant réponse d'erreur retourné %1$d %2$s "
+
+#: ../includes/locals.php:453
+#@ CURRENT_THEME
+msgid "Remote file is incorrect size "
+msgstr "Fichier distant est taille incorrecte"
+
+#: ../includes/locals.php:454
+#@ CURRENT_THEME
+msgid "Zero size file downloaded "
+msgstr "Zéro fichier téléchargé taille"
+
+#: ../includes/locals.php:455
+#, php-format
+#@ CURRENT_THEME
+msgid "Remote file is too large, limit is %s "
+msgstr "Fichiers à distance est trop grande, la limite est %s"
+
+#: ../includes/locals.php:456
+#@ CURRENT_THEME
+msgid "<span>Step <i>1</i></span> Data Import"
+msgstr "Étape <span> <i>1</ i> </span> Importation de données"
+
+#: ../includes/locals.php:457
+#@ CURRENT_THEME
+msgid "<span>Step <i>2</i></span> Assign Authors"
+msgstr "Étape <span> <i>2</ i> </span> Attribuer Auteurs"
+
+#: ../includes/locals.php:458
+#, php-format
+#@ CURRENT_THEME
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files. "
+msgstr "Une nouvelle version de cet importateur est disponible. S'il vous plaît mettre à jour vers la version %s pour assurer la compatibilité avec les fichiers d'exportation les plus récents."
+
+#: ../includes/locals.php:459
+#@ CURRENT_THEME
+msgid "Select (<b>.xml</b>) file to upload sample data.<br>If you do not want to install sample data from livedemo you need to <b>skip this step</b>."
+msgstr "Sélectionnez (<b>. xml </b>) déposer pour charger les données de l'échantillon. <br> Si vous ne voulez pas installer les données de l'échantillon de LIVEDEMO vous devez <b> sauter cette étape </b>."
+
+#: ../includes/locals.php:460
+#@ CURRENT_THEME
+msgid "Please note that certain content is already installed. You may simply need to skip this step. Otherwise, you can proceed with the installation."
+msgstr "S'il vous plaît noter que certains contenus est déjà installé. Vous pouvez tout simplement besoin de sauter cette étape. Sinon, vous pouvez procéder à l'installation."
+
+#: ../includes/locals.php:462
+#@ CURRENT_THEME
+msgid "Some of your server settings do not meet the requirements for installing the sample data. Please, consult with your hosting provider on how to increase the required values."
+msgstr "Certains de vos paramètres de serveur ne répondent pas aux conditions requises pour installer les données d'échantillon. S'il vous plaît, consultez votrefournisseur d'hébergement sur  la façon d'augmenter les valeurs requises."
+
+#: ../includes/locals.php:463
+#@ CURRENT_THEME
+msgid "Server Settings"
+msgstr "Paramètres du serveur"
+
+#: ../includes/locals.php:464
+#@ CURRENT_THEME
+msgid "Current"
+msgstr "Courant"
+
+#: ../includes/locals.php:465
+#@ CURRENT_THEME
+msgid "NOTE"
+msgstr "REMARQUE"
+
+#: ../includes/locals.php:466
+#@ CURRENT_THEME
+msgid "if for some reason those settings can not be adjusted, you may install the sample data using an <strong>alternative method</strong> - importing the <strong>.sql</strong> file directly into the database. Refer to the template documentation for instructions."
+msgstr "si pour une raison quelconque de ces paramètres ne peuvent pas être réglés, vous pouvez installer les données d'échantillon en utilisant une méthode <strong> autre </strong> - l'importation de la <strong>sql</strong> de fichier directement dans la base de données. Reportez-vous à la documentation de modèle pour les instructions."
+
+#: ../includes/locals.php:467
+#@ CURRENT_THEME
+msgid "You can proceed with the template installation without updating server settings, however in this case you can get errors or only part of your content will be loaded."
+msgstr "Vous pouvez procéder à l'installation de modèle sans mettre à jour les paramètres du serveur, mais dans ce cas, vous pouvez avoir des erreurs ou seulement une partie de votre contenu sera chargé."
+
+#: ../includes/locals.php:468
+#@ CURRENT_THEME
+msgid "Congratulations"
+msgstr "Félicitations"
+
+#: ../includes/locals.php:469
+#@ CURRENT_THEME
+msgid "You have successfully installed your <b>Cherry WordPress Theme</b>.<br /> You can look theme now"
+msgstr "Vous avez installé avec succès votre thème <b> cerise WordPress </ b>. <br /> Vous pouvez consulter thème maintenant"
+
+#: ../includes/locals.php:470
+#@ CURRENT_THEME
+msgid "visit site"
+msgstr "visitez le site"
+
+#: ../includes/locals.php:471
+#@ CURRENT_THEME
+msgid "You might see only the white screen on the next step. Don't worry, the importing is being continued. Please wait until the installation is finished."
+msgstr "Vous pouvez voir que l'écran blanc sur la prochaine étape. Ne vous inquiétez pas, l'importation se poursuit. S'il vous plaît attendez que l'installation est terminée."
+
+#: ../includes/locals.php:472
+#@ CURRENT_THEME
+msgid "<b>Attention:</b> the Jigoshop plugin is not activated. We recommend that you install and activate this plugin to ensure correct data importing. Otherwise, some data may be lost during the import."
+msgstr "<b> Attention: </b> le plugin Jigoshop n'est pas activé. Nous vous recommandons d'installer et d'activer ce plugin pour assurer l'importation de données correct. Sinon, certaines données peuvent être perdues lors de l'importation."
+
+#: ../includes/locals.php:473
+#@ CURRENT_THEME
+msgid "<b>Attention:</b> the WooCommerce plugin is not activated. We recommend that you install and activate this plugin to ensure correct data importing. Otherwise, some data may be lost during the import."
+msgstr "<b> Attention: </b> le plugin WooCommerce n'est pas activé. Nous vous recommandons d'installer et d'activer ce plugin pour assurer l'importation de données correct. Sinon, certaines données peuvent être perdues lors de l'importation"
+
+#: ../includes/locals.php:476
+#@ CURRENT_THEME
+msgid "The login information you have entered is incorrect."
+msgstr "Les informations de connexion que vous avez saisies sont incorrectes."
+
+#: ../includes/locals.php:477
+#@ CURRENT_THEME
+msgid "You need to enable write permissions on your server to use these functions."
+msgstr "Vous devez activer les permissions d'écriture sur votre serveur pour utiliser ces fonctions."
+
+#: ../includes/locals.php:478
+#@ CURRENT_THEME
+msgid "Cherry Framework is not able to perform necessary changes for the correct work with your child theme."
+msgstr "Cadre cerise n'est pas en mesure d'effectuer les changements nécessaires pour le travail avec votre thème enfant."
+
+#: ../includes/locals.php:479
+#@ CURRENT_THEME
+msgid "See <a target=\"_blank\" href=\"//codex.wordpress.org/Changing_File_Permissions\">the Codex</a> for more information."
+msgstr "Voir <a target=\"_blank\" href=\"//codex.wordpress.org/Changing_File_Permissions\">le Codex</a> pour plus d'informations."
+
+#: ../includes/locals.php:482
+#@ CURRENT_THEME
+msgid "Header Menu"
+msgstr "Rubrique Menu"
+
+#: ../includes/locals.php:483
+#@ CURRENT_THEME
+msgid "Footer Menu"
+msgstr "Menu pied de page"
+
+#: ../includes/locals.php:485
+#@ CURRENT_THEME
+msgid "Testimonial"
+msgstr "Témoignage"
+
+#: ../includes/locals.php:486
+#@ CURRENT_THEME
+msgid "Services"
+msgstr "Services"
+
+#: ../includes/locals.php:487
+#@ CURRENT_THEME
+msgid "FAQs"
+msgstr "FAQ"
+
+#: ../includes/locals.php:488
+#@ CURRENT_THEME
+msgid "Our Team"
+msgstr "Notre équipe"
+
+#: ../includes/locals.php:489
+#@ CURRENT_THEME
+msgid "Category"
+msgstr "Catégorie"
+
+#: ../includes/locals.php:490
+#@ CURRENT_THEME
+msgid "Tag"
+msgstr "Balise"
+
+#: ../includes/locals.php:493
+#@ CURRENT_THEME
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: ../includes/locals.php:494
+#@ CURRENT_THEME
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de modération."
+
+#: ../includes/locals.php:497
+#@ CURRENT_THEME
+msgid "Please choose desired Portfolio Format and fill additional fields."
+msgstr "S'il vous plaît choisissez Format souhaité de portefeuille et remplir les champs supplémentaires."
+
+#: ../includes/locals.php:499
+#@ CURRENT_THEME
+msgid "Grid Gallery"
+msgstr "Galerie de grille"
+
+#: ../includes/locals.php:500
+#@ CURRENT_THEME
+msgid "Portfolio Options"
+msgstr "Options de portefeuille"
+
+#: ../includes/locals.php:501
+#@ CURRENT_THEME
+msgid "Format"
+msgstr "format"
+
+#: ../includes/locals.php:502
+#@ CURRENT_THEME
+msgid "Choose post format that most fit your needs."
+msgstr "Choisissez le format poste qui correspond le mieux à vos besoins."
+
+#: ../includes/locals.php:503
+#@ CURRENT_THEME
+msgid "Input project end date."
+msgstr "Entrée date de fin du projet."
+
+#: ../includes/locals.php:504
+#@ CURRENT_THEME
+msgid "Client"
+msgstr "Client"
+
+#: ../includes/locals.php:505
+#@ CURRENT_THEME
+msgid "Input project owner name."
+msgstr "Projet d'entrée le nom du propriétaire."
+
+#: ../includes/locals.php:506
+#@ CURRENT_THEME
+msgid "Additional info for this portfolio item."
+msgstr "Informations complémentaires pour ce point de portefeuille."
+
+#: ../includes/locals.php:507
+#@ CURRENT_THEME
+msgid "Input the project URL (external link)"
+msgstr "Entrée l'URL du projet (lien externe)"
+
+#: ../includes/locals.php:508 ../includes/locals.php:562
+#@ CURRENT_THEME
+msgid "Image Settings"
+msgstr "Paramètres d'image"
+
+#: ../includes/locals.php:509
+#@ CURRENT_THEME
+msgid "Video Settings"
+msgstr "Paramètres vidéo"
+
+#: ../includes/locals.php:510
+#@ CURRENT_THEME
+msgid "Input the video title (for playlist)"
+msgstr "Entrez le titre de la vidéo (pour lecture)"
+
+#: ../includes/locals.php:511
+#@ CURRENT_THEME
+msgid "Artist"
+msgstr "artiste"
+
+#: ../includes/locals.php:512
+#@ CURRENT_THEME
+msgid "Input the video artist (for playlist)."
+msgstr "Entrée de l'artiste vidéo (pour lecture)."
+
+#: ../includes/locals.php:513
+#@ CURRENT_THEME
+msgid "Input URL to the <b>m4v</b> video format."
+msgstr "URL d'entrée à <b> m4v </b> le format de vidéo."
+
+#: ../includes/locals.php:514
+#@ CURRENT_THEME
+msgid "Input URL to the <b>ogv</b> video format."
+msgstr "URL d'entrée à <b> ogv </b> le format de vidéo."
+
+#: ../includes/locals.php:515
+#@ CURRENT_THEME
+msgid "Embedded Code"
+msgstr "Code Incorporé"
+
+#: ../includes/locals.php:516
+#@ CURRENT_THEME
+msgid "You can include embedded code here.<br><b>Attention!</b> This code overwrite your video URL(s)."
+msgstr "Vous pouvez inclure le code intégré ici. <br> <b> Attention! </b> Ce code remplace votre URL de la vidéo (s)."
+
+#: ../includes/locals.php:517
+#@ CURRENT_THEME
+msgid "Audio Settings"
+msgstr "Paramètres Audio"
+
+#: ../includes/locals.php:518
+#@ CURRENT_THEME
+msgid "Input the audio title (for playlist)."
+msgstr "Entrez le titre audio (pour lecture)."
+
+#: ../includes/locals.php:519
+#@ CURRENT_THEME
+msgid "Input the audio artist (for playlist)."
+msgstr "Entrée de l'artiste audio (pour lecture)"
+
+#: ../includes/locals.php:520
+#@ CURRENT_THEME
+msgid "Audio format"
+msgstr "Format audio"
+
+#: ../includes/locals.php:521
+#@ CURRENT_THEME
+msgid "Choose audio format."
+msgstr "Choisissez le format audio."
+
+#: ../includes/locals.php:522
+#@ CURRENT_THEME
+msgid "Audio URL"
+msgstr "URL audio"
+
+#: ../includes/locals.php:523
+#@ CURRENT_THEME
+msgid "Input the audio URL."
+msgstr "Entrez le URL du fichier audio."
+
+#: ../includes/locals.php:526
+#@ CURRENT_THEME
+msgid "Slider Options"
+msgstr "Options de Slider"
+
+#: ../includes/locals.php:527
+#@ CURRENT_THEME
+msgid "Caption"
+msgstr "Légende"
+
+#: ../includes/locals.php:528
+#@ CURRENT_THEME
+msgid "Input your caption for slide (HTML tags are allowed)."
+msgstr "Saisissez votre légende pour diapositive (les balises HTML sont autorisées)."
+
+#: ../includes/locals.php:529
+#@ CURRENT_THEME
+msgid "Input the slide URL (can be external link)"
+msgstr "Entrez le diaporama URL (peut être lien externe)"
+
+#: ../includes/locals.php:530
+#@ CURRENT_THEME
+msgid "Please fill additional fields for slide."
+msgstr "S'il vous plaît remplir les champs supplémentaires pour diapositive."
+
+#: ../includes/locals.php:533
+#@ CURRENT_THEME
+msgid "Personal Options"
+msgstr "Options Personnelles"
+
+#: ../includes/locals.php:534
+#@ CURRENT_THEME
+msgid "Please fill additional fields for person."
+msgstr "S'il vous plaît remplir les champs supplémentaires pour personne."
+
+#: ../includes/locals.php:535
+#@ CURRENT_THEME
+msgid "Position"
+msgstr "Position"
+
+#: ../includes/locals.php:536
+#@ CURRENT_THEME
+msgid "Input position of the person."
+msgstr "La position de saisie de la personne."
+
+#: ../includes/locals.php:537
+#@ CURRENT_THEME
+msgid "Input additional info."
+msgstr "Entrée des infos supplémentaires."
+
+#: ../includes/locals.php:538
+#@ CURRENT_THEME
+msgid "Social Networks"
+msgstr "Réseaux Sociaux"
+
+#: ../includes/locals.php:539
+#@ CURRENT_THEME
+msgid "Page URL"
+msgstr "URL de la page"
+
+#: ../includes/locals.php:540
+#@ CURRENT_THEME
+msgid "Your Social Networks."
+msgstr "Vos réseaux sociaux."
+
+#: ../includes/locals.php:541
+#@ CURRENT_THEME
+msgid "In icon field you need to specify the icon name that can be copied from the <a target=\"_blank\" href=\"//fortawesome.github.io/Font-Awesome/3.2.1/icons/#brand\">website</a>. E.g. \"icon-facebook\"."
+msgstr "Dans le champ icône vous devez préciser le nom de l'icône qui peut être copié à partir de <a target=\"_blank\" href=\"//fortawesome.github.io/Font-Awesome/3.2.1/icons/#brand\">site</a>. E.g. \"icon-facebook\""
+
+#: ../includes/locals.php:542
+#@ CURRENT_THEME
+msgid "Social Networks Title"
+msgstr "Réseaux sociaux Titre"
+
+#: ../includes/locals.php:543
+#@ CURRENT_THEME
+msgid "Specify the heading for the social networks block."
+msgstr "Indiquez le titre du bloc des réseaux sociaux."
+
+#: ../includes/locals.php:546
+#@ CURRENT_THEME
+msgid "Testimonial Options"
+msgstr "Options de Témoignage"
+
+#: ../includes/locals.php:547
+#@ CURRENT_THEME
+msgid "Please fill additional fields for testimonial."
+msgstr "S'il vous plaît remplir les champs supplémentaires pour témoignage."
+
+#: ../includes/locals.php:548 ../includes/locals.php:875
+#: ../includes/locals.php:940
+#@ CURRENT_THEME
+msgid "Name"
+msgstr "Nom"
+
+#: ../includes/locals.php:549
+#@ CURRENT_THEME
+msgid "Input author's name."
+msgstr "Le nom de l'auteur d'entrée."
+
+#: ../includes/locals.php:550
+#@ CURRENT_THEME
+msgid "Input author's URL."
+msgstr "URL de l'auteur d'entrée."
+
+#: ../includes/locals.php:551
+#@ CURRENT_THEME
+msgid "Input author's additional info."
+msgstr "Informations supplémentaires de l'auteur d'entrée."
+
+#: ../includes/locals.php:554
+#@ CURRENT_THEME
+msgid "Quote Settings"
+msgstr "Paramètres de citation"
+
+#: ../includes/locals.php:555
+#@ CURRENT_THEME
+msgid "The Quote"
+msgstr "La Citation"
+
+#: ../includes/locals.php:556
+#@ CURRENT_THEME
+msgid "Put your quote in this field."
+msgstr "Mettez votre citation dans ce domaine."
+
+#: ../includes/locals.php:557 ../includes/locals.php:764
+#: ../includes/locals.php:876
+#@ CURRENT_THEME
+msgid "Author"
+msgstr "Auteur"
+
+#: ../includes/locals.php:558
+#@ CURRENT_THEME
+msgid "Put quote author in this field."
+msgstr "Mettez citation auteur dans ce domaine."
+
+#: ../includes/locals.php:559
+#@ CURRENT_THEME
+msgid "Link Settings"
+msgstr "Lien Paramètres"
+
+#: ../includes/locals.php:560
+#@ CURRENT_THEME
+msgid "The URL"
+msgstr "l'URL"
+
+#: ../includes/locals.php:561
+#@ CURRENT_THEME
+msgid "Insert the URL you wish to link to."
+msgstr "Insérez l'URL que vous souhaitez créer un lien."
+
+#: ../includes/locals.php:563
+#@ CURRENT_THEME
+msgid "Input the video title (for playlist)."
+msgstr "Entrez le titre de la vidéo (pour lecture)."
+
+#: ../includes/locals.php:566
+#@ CURRENT_THEME
+msgid "Category Include"
+msgstr "Catégorie Inclure"
+
+#: ../includes/locals.php:567
+#@ CURRENT_THEME
+msgid "The Category Slug"
+msgstr "Catégorie Slug"
+
+#: ../includes/locals.php:568
+#@ CURRENT_THEME
+msgid "Name of the custom category that is displayed on this page. You need to use the slug of the category here."
+msgstr "Nom de la catégorie personnalisée qui est affichée sur cette page. Vous devez utiliser le bouchon de la catégorie ici."
+
+#: ../includes/locals.php:571
+#@ CURRENT_THEME
+msgid "Install Required Plugins"
+msgstr "Installez requis plugins"
+
+#: ../includes/locals.php:572
+#@ CURRENT_THEME
+msgid "Install Plugins"
+msgstr "Installer des plugins"
+
+#: ../includes/locals.php:573
+#, php-format
+#@ CURRENT_THEME
+msgid "Installing Plugin: %s"
+msgstr "Plugin Installation: %s"
+
+#: ../includes/locals.php:574
+#@ CURRENT_THEME
+msgid "Something went wrong"
+msgstr "Quelque chose a mal tourné"
+
+#: ../includes/locals.php:575
+#, php-format
+#@ CURRENT_THEME
+msgid "This theme requires the following plugin: %1$s."
+msgstr "Ce thème nécessite le plugin suivant:%1$s."
+
+#: ../includes/locals.php:576
+#, php-format
+#@ CURRENT_THEME
+msgid "This theme requires the following plugins: %1$s."
+msgstr "Ce thème nécessite les plugins suivants:%1$s."
+
+#: ../includes/locals.php:577
+#, php-format
+#@ CURRENT_THEME
+msgid "This theme recommends the following plugin: %1$s."
+msgstr "Ce thème recommande le plugin suivant: %1$s.."
+
+#: ../includes/locals.php:578
+#, php-format
+#@ CURRENT_THEME
+msgid "This theme recommends the following plugins: %1$s."
+msgstr "Ce thème recommande les plugins suivants: %1$s."
+
+#: ../includes/locals.php:579
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr "Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer le plugin %s Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin installé."
+
+#: ../includes/locals.php:580
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr "Désolé, mais vous ne disposez pas des autorisations nécessaires pour installer les plugins de %s. Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins installés .."
+
+#: ../includes/locals.php:581
+#, php-format
+#@ CURRENT_THEME
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr "Le plugin requis à la suite est actuellement inactive: %1$s."
+
+#: ../includes/locals.php:582
+#, php-format
+#@ CURRENT_THEME
+msgid "The following required plugins are currently inactive: %1$s."
+msgstr "Les plugins requis suivants sont actuellement inactive: %1$s."
+
+#: ../includes/locals.php:583
+#, php-format
+#@ CURRENT_THEME
+msgid "The following recommended plugin is currently inactive: %1$s"
+msgstr "Le plugin est recommandé suite est actuellement inactive: %1$s"
+
+#: ../includes/locals.php:584
+#, php-format
+#@ CURRENT_THEME
+msgid "The following recommended plugins are currently inactive: %1$s."
+msgstr "Les plugins suivants sont recommandés actuellement inactive: %1$s."
+
+#: ../includes/locals.php:585
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr "Désolé, mais vous n'avez pas les autorisations nécessaires pour activer le plugin  %s. Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin activé."
+
+#: ../includes/locals.php:586
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr "Désolé, mais vous n'avez pas les autorisations nécessaires pour activer les plugins de  %s. Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins activés."
+
+#: ../includes/locals.php:587
+#, php-format
+#@ CURRENT_THEME
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr "Le plugin suivante doit être mis à jour dans sa dernière version pour assurer une compatibilité maximale avec ce thème: %1$s."
+
+#: ../includes/locals.php:588
+#, php-format
+#@ CURRENT_THEME
+msgid "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s"
+msgstr "Les plugins suivants doivent être mis à jour leur version la plus récente afin d'assurer une compatibilité maximale avec ce thème: %1$s"
+
+#: ../includes/locals.php:589
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr "Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour le plugin %s. Contactez l'administrateur de ce site pour obtenir de l'aide sur le plugin à jour."
+
+#: ../includes/locals.php:590
+#, php-format
+#@ CURRENT_THEME
+msgid "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr "Désolé, mais vous n'avez pas les autorisations nécessaires pour mettre à jour les plugins de %s. Contactez l'administrateur de ce site de l'aide sur l'obtention des plugins mis à jour."
+
+#: ../includes/locals.php:591
+#@ CURRENT_THEME
+msgid "Begin installing plugin"
+msgstr "Commencez à installer le plugin"
+
+#: ../includes/locals.php:592
+#@ CURRENT_THEME
+msgid "Begin installing plugins"
+msgstr "Commencez à installer des plugins"
+
+#: ../includes/locals.php:593
+#@ CURRENT_THEME
+msgid "Activate installed plugin"
+msgstr "Activez le plugin installé"
+
+#: ../includes/locals.php:594
+#@ CURRENT_THEME
+msgid "Activate installed plugins"
+msgstr "Activer les plugins installés"
+
+#: ../includes/locals.php:595
+#@ CURRENT_THEME
+msgid "Return to Required Plugins Installer"
+msgstr "Retour à Obligatoires Plugins Installer"
+
+#: ../includes/locals.php:596
+#@ CURRENT_THEME
+msgid "Plugin activated successfully"
+msgstr "Plugin activé avec succès"
+
+#: ../includes/locals.php:597
+#, php-format
+#@ CURRENT_THEME
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tous les plugins installés et activés avec succès. %1$s"
+
+#: ../includes/locals.php:598 ../includes/locals.php:610
+#@ CURRENT_THEME
+msgid "Return to the Dashboard"
+msgstr "Retour au tableau de bord"
+
+#: ../includes/locals.php:599
+#, php-format
+#@ CURRENT_THEME
+msgid "The following plugin was activated successfully: %s."
+msgstr "Le plugin suivant a été activé avec succès: %s."
+
+#: ../includes/locals.php:601
+#@ CURRENT_THEME
+msgid "External Link"
+msgstr "Lien Externe"
+
+#: ../includes/locals.php:602
+#@ CURRENT_THEME
+msgid "Private Repository"
+msgstr "Référentiel Privé"
+
+#: ../includes/locals.php:603
+#@ CURRENT_THEME
+msgid "Pre-Packaged"
+msgstr "Préemballés"
+
+#: ../includes/locals.php:604
+#@ CURRENT_THEME
+msgid "WordPress Repository"
+msgstr "Référentiel WordPress"
+
+#: ../includes/locals.php:605
+#@ CURRENT_THEME
+msgid "Required"
+msgstr "Requis"
+
+#: ../includes/locals.php:606
+#@ CURRENT_THEME
+msgid "Recommended"
+msgstr "Recommandé"
+
+#: ../includes/locals.php:607
+#@ CURRENT_THEME
+msgid "Not Installed"
+msgstr "Non Installé"
+
+#: ../includes/locals.php:608
+#@ CURRENT_THEME
+msgid "Installed But Not Activated"
+msgstr "Installé mais pas activé"
+
+#: ../includes/locals.php:609
+#@ CURRENT_THEME
+msgid "No plugins to install or activate."
+msgstr "Aucun plugin à installer ou activer."
+
+#: ../includes/locals.php:611
+#@ CURRENT_THEME
+msgid "Plugin"
+msgstr "Plugin"
+
+#: ../includes/locals.php:612
+#@ CURRENT_THEME
+msgid "Source"
+msgstr "Source"
+
+#: ../includes/locals.php:613
+#@ CURRENT_THEME
+msgid "Type"
+msgstr "Type"
+
+#: ../includes/locals.php:614
+#@ CURRENT_THEME
+msgid "Status"
+msgstr "Statut"
+
+#: ../includes/locals.php:615
+#@ CURRENT_THEME
+msgid "Install"
+msgstr "Installer"
+
+#: ../includes/locals.php:616
+#@ CURRENT_THEME
+msgid "Activate"
+msgstr "Activer"
+
+#: ../includes/locals.php:618
+#@ CURRENT_THEME
+msgid "The following plugins were activated successfully:"
+msgstr "Les plugins suivants ont été activés avec succès:"
+
+#: ../includes/locals.php:619
+#@ CURRENT_THEME
+msgid "Install package not available."
+msgstr "Installer le paquet n'est pas disponible."
+
+#: ../includes/locals.php:620
+#, php-format
+#@ CURRENT_THEME
+msgid "Downloading install package from <span class='code'>%s</span>&#8230;"
+msgstr "Téléchargement package d'installation de <span class='code'>%s</ span>&#8230;"
+
+#: ../includes/locals.php:621
+#@ CURRENT_THEME
+msgid "Unpacking the package&#8230;"
+msgstr "Déballage du paquet ..."
+
+#: ../includes/locals.php:622
+#@ CURRENT_THEME
+msgid "Installing the plugin&#8230;"
+msgstr "Installation du plug-in ..."
+
+#: ../includes/locals.php:623
+#@ CURRENT_THEME
+msgid "Plugin install failed."
+msgstr "Plugin installation a échoué."
+
+#: ../includes/locals.php:624
+#@ CURRENT_THEME
+msgid "Plugin installed successfully."
+msgstr "Plugin installé avec succès."
+
+#: ../includes/locals.php:625
+#@ CURRENT_THEME
+msgid "Plugin activation failed."
+msgstr "Plugin activation a échoué."
+
+#: ../includes/locals.php:626
+#@ CURRENT_THEME
+msgid "Plugin activated successfully."
+msgstr "Plugin activé avec succès."
+
+#: ../includes/locals.php:627
+#@ CURRENT_THEME
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation et d'activation commence. Ce processus peut prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../includes/locals.php:628
+#, php-format
+#@ CURRENT_THEME
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installé et activé avec succès."
+
+#: ../includes/locals.php:629
+#@ CURRENT_THEME
+msgid "Show Details"
+msgstr "Voir les détails"
+
+#: ../includes/locals.php:630
+#@ CURRENT_THEME
+msgid "Hide Details"
+msgstr "Cacher les détails"
+
+#: ../includes/locals.php:631
+#@ CURRENT_THEME
+msgid "All installations and activations have been completed."
+msgstr "Toutes les installations et activations ont été achevés."
+
+#: ../includes/locals.php:632
+#, php-format
+#@ CURRENT_THEME
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation et activation Plugin %1$s (%2$d/%3$d)"
+
+#: ../includes/locals.php:633
+#@ CURRENT_THEME
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Le processus d'installation commence. Ce processus peut prendre un certain temps sur certains hôtes, donc s'il vous plaît soyez patient."
+
+#: ../includes/locals.php:634
+#, php-format
+#@ CURRENT_THEME
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Une erreur s'est produite lors de l'installation de  %1$s<strong>%2$s</strong>."
+
+#: ../includes/locals.php:635
+#, php-format
+#@ CURRENT_THEME
+msgid "The installation of %1$s failed."
+msgstr "L'installation de %1$s  a échoué."
+
+#: ../includes/locals.php:636
+#, php-format
+#@ CURRENT_THEME
+msgid "%1$s installed successfully."
+msgstr "%1$s installés avec succès."
+
+#: ../includes/locals.php:637
+#@ CURRENT_THEME
+msgid "All installations have been completed."
+msgstr "Toutes les installations ont été achevées."
+
+#: ../includes/locals.php:638
+#, php-format
+#@ CURRENT_THEME
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installation Plugin %1$s (%2$d/%3$d)"
+
+#: ../includes/locals.php:639
+#@ CURRENT_THEME
+msgid "Something went wrong with the plugin API._"
+msgstr "Quelque chose n'allait pas avec le plugin API._"
+
+#: ../includes/locals.php:640
+#@ CURRENT_THEME
+msgid "updated"
+msgstr "mise à jour"
+
+#: ../includes/locals.php:643
+#@ CURRENT_THEME
+msgid "Close"
+msgstr "Proche"
+
+#: ../includes/locals.php:646
+#@ CURRENT_THEME
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: ../includes/locals.php:647
+#@ CURRENT_THEME
+msgid "Located at the right side of pages."
+msgstr "Situé sur le côté droit de pages."
+
+#: ../includes/locals.php:648
+#@ CURRENT_THEME
+msgid "Footer Area 1"
+msgstr "Pied de page Zone 1"
+
+#: ../includes/locals.php:649
+#@ CURRENT_THEME
+msgid "Footer Area 2"
+msgstr "Pied de page Zone 2"
+
+#: ../includes/locals.php:650
+#@ CURRENT_THEME
+msgid "Footer Area 3"
+msgstr "Pied de page Zone 3"
+
+#: ../includes/locals.php:651
+#@ CURRENT_THEME
+msgid "Footer Area 4"
+msgstr "Pied de page Zone 4"
+
+#: ../includes/locals.php:652
+#@ CURRENT_THEME
+msgid "Located at the bottom of pages."
+msgstr "Situé au bas de pages."
+
+#: ../includes/locals.php:653
+#@ CURRENT_THEME
+msgid "Archives"
+msgstr "Archives"
+
+#: ../includes/locals.php:654
+#@ CURRENT_THEME
+msgid "Meta"
+msgstr "Meta"
+
+#: ../includes/locals.php:657
+#@ CURRENT_THEME
+msgid "No comments"
+msgstr "Pas de commentaires"
+
+#: ../includes/locals.php:658
+#@ CURRENT_THEME
+msgid "1 comment"
+msgstr "1 commentaire"
+
+#: ../includes/locals.php:659
+#@ CURRENT_THEME
+msgid "comments"
+msgstr "commentaires"
+
+#: ../includes/locals.php:660
+#@ CURRENT_THEME
+msgid "comments-link"
+msgstr "commentaires-lien"
+
+#: ../includes/locals.php:661
+#@ CURRENT_THEME
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés"
+
+#: ../includes/locals.php:662
+#@ CURRENT_THEME
+msgid "No tags"
+msgstr "Pas de tags"
+
+#: ../includes/locals.php:663
+#@ CURRENT_THEME
+msgid "No category"
+msgstr "Sans catégorie"
+
+#: ../includes/locals.php:665
+#@ CURRENT_THEME
+msgid "I like it."
+msgstr "Je l'aime."
+
+#: ../includes/locals.php:666
+#@ CURRENT_THEME
+msgid "I don't like."
+msgstr "Je n'aime pas."
+
+#: ../includes/locals.php:667
+#@ CURRENT_THEME
+msgid "Only registered users can vote!"
+msgstr "Seuls les utilisateurs enregistrés peuvent voter!"
+
+#: ../includes/locals.php:668
+#@ CURRENT_THEME
+msgid "You have already voted."
+msgstr "Vous avez déjà voté."
+
+#: ../includes/locals.php:671
+#@ CURRENT_THEME
+msgid "&laquo; Older Entries"
+msgstr "&laquo;Entrées plus anciennes"
+
+#: ../includes/locals.php:672
+#@ CURRENT_THEME
+msgid "Newer Entries &raquo;"
+msgstr "Les nouvelles entrées &raquo;"
+
+#: ../includes/locals.php:675
+#@ CURRENT_THEME
+msgid "Shortcode Options"
+msgstr "Options code court"
+
+#: ../includes/locals.php:676
+#@ CURRENT_THEME
+msgid "Cancel"
+msgstr "Annuler"
+
+#: ../includes/locals.php:677
+#@ CURRENT_THEME
+msgid "Insert Shortcode"
+msgstr "Insérer le code court"
+
+#: ../includes/locals.php:680
+#@ CURRENT_THEME
+msgid "Posts"
+msgstr "Messages"
+
+#: ../includes/locals.php:681
+#@ CURRENT_THEME
+msgid "Posts Grid"
+msgstr "Messages Grille"
+
+#: ../includes/locals.php:682
+#@ CURRENT_THEME
+msgid "Posts List"
+msgstr "Liste des messages"
+
+#: ../includes/locals.php:683
+#@ CURRENT_THEME
+msgid "Mini Posts Grid"
+msgstr "Mini Messages Grille"
+
+#: ../includes/locals.php:684
+#@ CURRENT_THEME
+msgid "Mini Posts List"
+msgstr "Liste de messages Mini"
+
+#: ../includes/locals.php:685
+#@ CURRENT_THEME
+msgid "Recent Posts"
+msgstr "Les messages récents"
+
+#: ../includes/locals.php:686
+#@ CURRENT_THEME
+msgid "Recent Testimonials"
+msgstr "Témoignages récents"
+
+#: ../includes/locals.php:687
+#@ CURRENT_THEME
+msgid "Basic"
+msgstr "De base"
+
+#: ../includes/locals.php:688
+#@ CURRENT_THEME
+msgid "Banner"
+msgstr "Bannière"
+
+#: ../includes/locals.php:689
+#@ CURRENT_THEME
+msgid "Comments"
+msgstr "Commentaires"
+
+#: ../includes/locals.php:690
+#@ CURRENT_THEME
+msgid "Post Cycle"
+msgstr "Post Cycle"
+
+#: ../includes/locals.php:691
+#@ CURRENT_THEME
+msgid "Carousel (Elasti)"
+msgstr "Carousel (Elasti)"
+
+#: ../includes/locals.php:692
+#@ CURRENT_THEME
+msgid "Carousel (OWL)"
+msgstr "Carousel (OWL)"
+
+#: ../includes/locals.php:693
+#@ CURRENT_THEME
+msgid "Roundabout"
+msgstr "Manège"
+
+#: ../includes/locals.php:694
+#@ CURRENT_THEME
+msgid "Service Box"
+msgstr "Boîte de service"
+
+#: ../includes/locals.php:695
+#@ CURRENT_THEME
+msgid "Hero Unit"
+msgstr "Unité de héros"
+
+#: ../includes/locals.php:697
+#@ CURRENT_THEME
+msgid "Fluid Column"
+msgstr "Colonne de fluide"
+
+#: ../includes/locals.php:698
+#@ CURRENT_THEME
+msgid "2 Columns"
+msgstr "2 colonnes"
+
+#: ../includes/locals.php:699
+#@ CURRENT_THEME
+msgid "3 Columns"
+msgstr "3 colonnes"
+
+#: ../includes/locals.php:700
+#@ CURRENT_THEME
+msgid "4 Columns"
+msgstr "4  colonnes"
+
+#: ../includes/locals.php:701
+#@ CURRENT_THEME
+msgid "Elements"
+msgstr "éléments"
+
+#: ../includes/locals.php:702
+#@ CURRENT_THEME
+msgid "Label"
+msgstr "étiquette"
+
+#: ../includes/locals.php:703
+#@ CURRENT_THEME
+msgid "Text Highlight"
+msgstr "Surbrillance du texte"
+
+#: ../includes/locals.php:704
+#@ CURRENT_THEME
+msgid "Button"
+msgstr "Bouton"
+
+#: ../includes/locals.php:705
+#@ CURRENT_THEME
+msgid "Drop Cap"
+msgstr "Lettrine"
+
+#: ../includes/locals.php:706
+#@ CURRENT_THEME
+msgid "Blockquote"
+msgstr "Bloquer citation"
+
+#: ../includes/locals.php:707
+#@ CURRENT_THEME
+msgid "Icon"
+msgstr "Icône"
+
+#: ../includes/locals.php:708
+#@ CURRENT_THEME
+msgid "Frame"
+msgstr "Frame"
+
+#: ../includes/locals.php:709
+#@ CURRENT_THEME
+msgid "Horizontal Rule"
+msgstr "Horizontal Rule"
+
+#: ../includes/locals.php:710
+#@ CURRENT_THEME
+msgid "Small Horizontal Rule"
+msgstr "Petit règle horizontale"
+
+#: ../includes/locals.php:711
+#@ CURRENT_THEME
+msgid "Vertical Rule"
+msgstr "Règle Verticale"
+
+#: ../includes/locals.php:712
+#@ CURRENT_THEME
+msgid "Spacer"
+msgstr "Entretoise"
+
+#: ../includes/locals.php:713
+#@ CURRENT_THEME
+msgid "Progressbar"
+msgstr "Barre de progression"
+
+#: ../includes/locals.php:714
+#@ CURRENT_THEME
+msgid "Address"
+msgstr "Adresse"
+
+#: ../includes/locals.php:715
+#@ CURRENT_THEME
+msgid "Clear"
+msgstr "Clair"
+
+#: ../includes/locals.php:716
+#@ CURRENT_THEME
+msgid "Extra Wrap"
+msgstr "Enveloppe supplémentaire"
+
+#: ../includes/locals.php:717
+#@ CURRENT_THEME
+msgid "Lists"
+msgstr "Listes"
+
+#: ../includes/locals.php:718
+#@ CURRENT_THEME
+msgid "Unstyled"
+msgstr "Sans style"
+
+#: ../includes/locals.php:719
+#@ CURRENT_THEME
+msgid "Check List"
+msgstr "Liste de Contrôle"
+
+#: ../includes/locals.php:720
+#@ CURRENT_THEME
+msgid "Check 2 List"
+msgstr "Vérifiez 2 Liste"
+
+#: ../includes/locals.php:721
+#@ CURRENT_THEME
+msgid "Arrow List"
+msgstr "Liste flèche"
+
+#: ../includes/locals.php:722
+#@ CURRENT_THEME
+msgid "Arrow 2 List"
+msgstr "Flèche 2 Liste"
+
+#: ../includes/locals.php:723
+#@ CURRENT_THEME
+msgid "Star List"
+msgstr "Liste d'Étoile"
+
+#: ../includes/locals.php:724
+#@ CURRENT_THEME
+msgid "Plus List"
+msgstr "Plus Liste"
+
+#: ../includes/locals.php:725
+#@ CURRENT_THEME
+msgid "Minus List"
+msgstr "Moins Liste"
+
+#: ../includes/locals.php:726
+#@ CURRENT_THEME
+msgid "Custom List"
+msgstr "Liste Personnalisée"
+
+#: ../includes/locals.php:727
+#@ CURRENT_THEME
+msgid "Audio & Video"
+msgstr "Audio et Vidéo"
+
+#: ../includes/locals.php:728
+#@ CURRENT_THEME
+msgid "Video Preview"
+msgstr "Prévisualisation Vidéo"
+
+#: ../includes/locals.php:729
+#@ CURRENT_THEME
+msgid "Misc"
+msgstr "Divers"
+
+#: ../includes/locals.php:730
+#@ CURRENT_THEME
+msgid "Alert Box"
+msgstr "Boîte d'avertissement"
+
+#: ../includes/locals.php:731
+#@ CURRENT_THEME
+msgid "Close icon"
+msgstr "Icône proche"
+
+#: ../includes/locals.php:732
+#@ CURRENT_THEME
+msgid "Well"
+msgstr "Bien"
+
+#: ../includes/locals.php:733
+#@ CURRENT_THEME
+msgid "Small"
+msgstr "Petit"
+
+#: ../includes/locals.php:734
+#@ CURRENT_THEME
+msgid "Title Box"
+msgstr "Boîte de Titre"
+
+#: ../includes/locals.php:735
+#@ CURRENT_THEME
+msgid "Template URL"
+msgstr "URL de modèle"
+
+#: ../includes/locals.php:736
+#@ CURRENT_THEME
+msgid "Tabs"
+msgstr "Onglets"
+
+#: ../includes/locals.php:737
+#@ CURRENT_THEME
+msgid "Accordion"
+msgstr "Accordéon"
+
+#: ../includes/locals.php:738
+#@ CURRENT_THEME
+msgid "Table"
+msgstr "Table"
+
+#: ../includes/locals.php:739
+#@ CURRENT_THEME
+msgid "Google Map"
+msgstr "Carte de Google"
+
+#: ../includes/locals.php:740
+#@ CURRENT_THEME
+msgid "Sitemap"
+msgstr "Plan de site"
+
+#: ../includes/locals.php:743
+#@ CURRENT_THEME
+msgid "Add 125x125 ads."
+msgstr "Ajoutez 125x125 des annonces."
+
+#: ../includes/locals.php:744
+#@ CURRENT_THEME
+msgid "Cherry - 125x125 Ads"
+msgstr "Cerise - 125x125 Annonces"
+
+#: ../includes/locals.php:745
+#@ CURRENT_THEME
+msgid "Ad 1"
+msgstr "L'annonce 1"
+
+#: ../includes/locals.php:746
+#@ CURRENT_THEME
+msgid "Ad 2"
+msgstr "L'annonce 2"
+
+#: ../includes/locals.php:747
+#@ CURRENT_THEME
+msgid "Ad 3"
+msgstr "L'annonce 3"
+
+#: ../includes/locals.php:748
+#@ CURRENT_THEME
+msgid "Ad 4"
+msgstr "L'annonce 4"
+
+#: ../includes/locals.php:749
+#@ CURRENT_THEME
+msgid "Image Ad Link:"
+msgstr "Lien d'Annonce d'Image :"
+
+#: ../includes/locals.php:750
+#@ CURRENT_THEME
+msgid "Ad Link:"
+msgstr "Lien d'Annonce :"
+
+#: ../includes/locals.php:753
+#@ CURRENT_THEME
+msgid "Cherry - Recent Comments"
+msgstr "Cerise - Commentaires Récents"
+
+#: ../includes/locals.php:754
+#@ CURRENT_THEME
+msgid "My Recent Comments"
+msgstr "Mes Commentaires Récents"
+
+#: ../includes/locals.php:755
+#@ CURRENT_THEME
+msgid "Go to this comment"
+msgstr "Allez à ce commentaire"
+
+#: ../includes/locals.php:756
+#@ CURRENT_THEME
+msgid "Number of comments to show"
+msgstr "Le nombre de commentaires pour montrer"
+
+#: ../includes/locals.php:757
+#@ CURRENT_THEME
+msgid "Display avatar"
+msgstr "Avatar d'affichage"
+
+#: ../includes/locals.php:758
+#@ CURRENT_THEME
+msgid "Avatar size (px)"
+msgstr "Taille d'avatar (px)"
+
+#: ../includes/locals.php:759
+#@ CURRENT_THEME
+msgid "Display the comment author"
+msgstr "Affichez l'auteur de commentaire"
+
+#: ../includes/locals.php:760
+#@ CURRENT_THEME
+msgid "Display the comment date"
+msgstr "Affichez la date de commentaire"
+
+#: ../includes/locals.php:761
+#@ CURRENT_THEME
+msgid "Display post title"
+msgstr "Titre de poste d'affichage"
+
+#: ../includes/locals.php:762
+#@ CURRENT_THEME
+msgid "Meta format"
+msgstr "Format Meta"
+
+#: ../includes/locals.php:765
+#@ CURRENT_THEME
+msgid "Comment in"
+msgstr "Commentaire dans"
+
+#: ../includes/locals.php:768
+#@ CURRENT_THEME
+msgid "Cherry - Flickr"
+msgstr "Cherry - Flickr"
+
+#: ../includes/locals.php:769
+#@ CURRENT_THEME
+msgid "Flickr ID:"
+msgstr "Flickr ID:"
+
+#: ../includes/locals.php:770
+#@ CURRENT_THEME
+msgid "Images count:"
+msgstr "Compte d'images :"
+
+#: ../includes/locals.php:773
+#@ CURRENT_THEME
+msgid "Cherry - Advanced Cycle"
+msgstr "Cerise - Cycle Avancé"
+
+#: ../includes/locals.php:774
+#@ CURRENT_THEME
+msgid "Show custom posts"
+msgstr "Montrez des postes personnalisés"
+
+#: ../includes/locals.php:775
+#@ CURRENT_THEME
+msgid "Posts type"
+msgstr "Type de postes"
+
+#: ../includes/locals.php:776
+#@ CURRENT_THEME
+msgid "Number of posts to show"
+msgstr "Nombre de messages à afficher"
+
+#: ../includes/locals.php:777
+#@ CURRENT_THEME
+msgid "Sort by"
+msgstr "Trier par"
+
+#: ../includes/locals.php:778
+#@ CURRENT_THEME
+msgid "Reverse sort order (ascending)"
+msgstr "Ordre de tri inverse (croissant)"
+
+#: ../includes/locals.php:779
+#@ CURRENT_THEME
+msgid "Show number of comments"
+msgstr "Afficher le numéro de commentaires"
+
+#: ../includes/locals.php:780
+#@ CURRENT_THEME
+msgid "Show meta"
+msgstr "Afficher méta"
+
+#: ../includes/locals.php:781
+#@ CURRENT_THEME
+msgid "Container class"
+msgstr "Classe Container"
+
+#: ../includes/locals.php:782
+#@ CURRENT_THEME
+msgid "(default: \"featured_custom_posts\")"
+msgstr "( Défaut : \"featured_custom_posts \")"
+
+#: ../includes/locals.php:783
+#@ CURRENT_THEME
+msgid "Post title"
+msgstr "Titre du poste"
+
+#: ../includes/locals.php:784
+#@ CURRENT_THEME
+msgid "Show post title"
+msgstr "Montrer les messages titre"
+
+#: ../includes/locals.php:785
+#@ CURRENT_THEME
+msgid "Date as title <span style='font-size:11px; color:#999;'>('[mm-dd-yyyy]')</span>"
+msgstr "Date titre <span color:#999;'> style='font-size:11px; («[mm-dd-yyyy] ') </span>"
+
+#: ../includes/locals.php:786
+#@ CURRENT_THEME
+msgid "Excerpt"
+msgstr "Extrait"
+
+#: ../includes/locals.php:787
+#@ CURRENT_THEME
+msgid "Show post excerpt"
+msgstr "Afficher poste extrait"
+
+#: ../includes/locals.php:788
+#@ CURRENT_THEME
+msgid "Excerpt as link"
+msgstr "Extrait de lien"
+
+#: ../includes/locals.php:789
+#@ CURRENT_THEME
+msgid "More link"
+msgstr "Plus lien"
+
+#: ../includes/locals.php:790
+#@ CURRENT_THEME
+msgid "Show \"More link"
+msgstr "Show \"Plus lien"
+
+#: ../includes/locals.php:791
+#@ CURRENT_THEME
+msgid "(default: \"Read more\")"
+msgstr "(par défaut: \"En savoir plus \")"
+
+#: ../includes/locals.php:792
+#@ CURRENT_THEME
+msgid "Link class"
+msgstr "Classe de Lien"
+
+#: ../includes/locals.php:793
+#@ CURRENT_THEME
+msgid "(default: \"link\")"
+msgstr "(par défaut: \"lien\")"
+
+#: ../includes/locals.php:794
+#@ CURRENT_THEME
+msgid "Thumbnail dimensions"
+msgstr "Dimensions miniatures"
+
+#: ../includes/locals.php:795
+#@ CURRENT_THEME
+msgid "Show post thumbnail"
+msgstr "Afficher Post Thumbnail"
+
+#: ../includes/locals.php:796
+#@ CURRENT_THEME
+msgid "Thumbnail as link"
+msgstr "Vignette comme lien"
+
+#: ../includes/locals.php:797
+#@ CURRENT_THEME
+msgid "Link to all posts"
+msgstr "Lien vers tous les messages"
+
+#: ../includes/locals.php:798
+#@ CURRENT_THEME
+msgid "Show global link to all posts"
+msgstr "Montrez le lien global à tous les postes"
+
+#: ../includes/locals.php:799
+#@ CURRENT_THEME
+msgid "(default: \"View all\")"
+msgstr "(par défaut: \"Voir tous les\")"
+
+#: ../includes/locals.php:802
+#@ CURRENT_THEME
+msgid "Cherry - Recent Posts"
+msgstr "Cerise - Postes Récents"
+
+#: ../includes/locals.php:803
+#@ CURRENT_THEME
+msgid "Permanent Link to"
+msgstr "Lien permanent vers"
+
+#: ../includes/locals.php:804
+#@ CURRENT_THEME
+msgid "Category Slug:"
+msgstr "Limace de Catégorie:"
+
+#: ../includes/locals.php:805
+#@ CURRENT_THEME
+msgid "Post format:"
+msgstr "Le format du message:"
+
+#: ../includes/locals.php:806
+#@ CURRENT_THEME
+msgid "Post order:"
+msgstr "Poster ordre:"
+
+#: ../includes/locals.php:807
+#@ CURRENT_THEME
+msgid "Posts per page:"
+msgstr "Messages par page:"
+
+#: ../includes/locals.php:810
+#@ CURRENT_THEME
+msgid "Cherry - Social Networks"
+msgstr "Cherry - Réseaux sociaux"
+
+#: ../includes/locals.php:811
+#@ CURRENT_THEME
+msgid "Link to your social networks."
+msgstr "Lien vers vos réseaux sociaux."
+
+#: ../includes/locals.php:813
+#@ CURRENT_THEME
+msgid "Display:"
+msgstr "Affichage:"
+
+#: ../includes/locals.php:814
+#@ CURRENT_THEME
+msgid "Icons"
+msgstr "Icônes"
+
+#: ../includes/locals.php:815
+#@ CURRENT_THEME
+msgid "Labels"
+msgstr "étiquettes"
+
+#: ../includes/locals.php:816
+#@ CURRENT_THEME
+msgid "Both"
+msgstr "Tous les deux"
+
+#: ../includes/locals.php:819
+#@ CURRENT_THEME
+msgid "Cherry - Twitter"
+msgstr "Cerise - Twitter"
+
+#: ../includes/locals.php:820
+#@ CURRENT_THEME
+msgid "Twitter Name:"
+msgstr "Nom : Twitter"
+
+#: ../includes/locals.php:821
+#@ CURRENT_THEME
+msgid "Twitts Number:"
+msgstr "Nombre twitts:"
+
+#: ../includes/locals.php:824
+#@ CURRENT_THEME
+msgid "Cherry - vCard"
+msgstr "Cerise - vCard"
+
+#: ../includes/locals.php:825
+#@ CURRENT_THEME
+msgid "Use this widget to add a vCard"
+msgstr "Utilisez ce gadget pour ajouter un vCard"
+
+#: ../includes/locals.php:826
+#@ CURRENT_THEME
+msgid "vCard"
+msgstr "vCard"
+
+#: ../includes/locals.php:827
+#@ CURRENT_THEME
+msgid "Street Address:"
+msgstr "Adresse postale :"
+
+#: ../includes/locals.php:828
+#@ CURRENT_THEME
+msgid "HTML map code:"
+msgstr "Code de carte de HTML :"
+
+#: ../includes/locals.php:829
+#@ CURRENT_THEME
+msgid "Map width:"
+msgstr "Largeur de carte :"
+
+#: ../includes/locals.php:830
+#@ CURRENT_THEME
+msgid "Map height:"
+msgstr "Hauteur de carte :"
+
+#: ../includes/locals.php:831
+#@ CURRENT_THEME
+msgid "Display map"
+msgstr "Carte d'affichage"
+
+#: ../includes/locals.php:832
+#@ CURRENT_THEME
+msgid "City/Locality:"
+msgstr "Ville/localité :"
+
+#: ../includes/locals.php:833
+#@ CURRENT_THEME
+msgid "State/Region:"
+msgstr "État/région :"
+
+#: ../includes/locals.php:834
+#@ CURRENT_THEME
+msgid "Zipcode/Postal Code:"
+msgstr "Code postal / Code postal:"
+
+#: ../includes/locals.php:835
+#@ CURRENT_THEME
+msgid "Telephone:"
+msgstr "Téléphone:"
+
+#: ../includes/locals.php:836
+#@ CURRENT_THEME
+msgid "Email:"
+msgstr "Email:"
+
+#: ../includes/locals.php:839 ../includes/locals.php:840
+#@ CURRENT_THEME
+msgid "Cherry - Facebook Like Box Widget"
+msgstr "Cherry - Facebook Like Box Widget"
+
+#: ../includes/locals.php:841
+#@ CURRENT_THEME
+msgid "Facebook page url"
+msgstr "Page Facebook url"
+
+#: ../includes/locals.php:842
+#@ CURRENT_THEME
+msgid "The Like Box only works with <a target=\"_blank\" href=\"//www.facebook.com/help/174987089221178/\" title=\"Facebook Pages\">Facebook Pages.</a>"
+msgstr "La Like Box fonctionne uniquement avec <a target=\"_blank\" href=\"//www.facebook.com/help/174987089221178/\" title=\"Facebook Pages\">les pages Facebook.</a>"
+
+#: ../includes/locals.php:843
+#@ CURRENT_THEME
+msgid "Color Scheme"
+msgstr "Combinaison des couleurs"
+
+#: ../includes/locals.php:844
+#@ CURRENT_THEME
+msgid "Light"
+msgstr "Lumière"
+
+#: ../includes/locals.php:845
+#@ CURRENT_THEME
+msgid "Dark"
+msgstr "Sombre"
+
+#: ../includes/locals.php:846
+#@ CURRENT_THEME
+msgid "Display header"
+msgstr "Tête d'affichage"
+
+#: ../includes/locals.php:847
+#@ CURRENT_THEME
+msgid "Display stream"
+msgstr "Flux d'affichage"
+
+#: ../includes/locals.php:848
+#@ CURRENT_THEME
+msgid "Display border"
+msgstr "Frontière d'affichage"
+
+#: ../includes/locals.php:849
+#@ CURRENT_THEME
+msgid "Display faces"
+msgstr "Visages d'affichage"
+
+#: ../includes/locals.php:850
+#@ CURRENT_THEME
+msgid "My Facebook Page"
+msgstr "Ma Page Facebook"
+
+#: ../includes/locals.php:853
+#@ CURRENT_THEME
+msgid "Default options restored."
+msgstr "Options par défaut reconstituées"
+
+#: ../includes/locals.php:854
+#@ CURRENT_THEME
+msgid "Options saved."
+msgstr "Options sauvées"
+
+#: ../includes/locals.php:855
+#@ CURRENT_THEME
+msgid "Cherry Store"
+msgstr "Magasin Cerise"
+
+#: ../includes/locals.php:856
+#@ CURRENT_THEME
+msgid "Latest Templates"
+msgstr "Derniers Modèles"
+
+#: ../includes/locals.php:857
+#@ CURRENT_THEME
+msgid "News & Updates"
+msgstr "Nouvelles et Mises à jour"
+
+#: ../includes/locals.php:858
+#@ CURRENT_THEME
+msgid "Help & Support"
+msgstr "Aide et Assistance"
+
+#: ../includes/locals.php:859
+#@ CURRENT_THEME
+msgid "No items"
+msgstr "Aucun article"
+
+#: ../includes/locals.php:860
+#@ CURRENT_THEME
+msgid "Posted"
+msgstr "Posté"
+
+#: ../includes/locals.php:861
+#@ CURRENT_THEME
+msgid "All templates"
+msgstr "Tous les modèles"
+
+#: ../includes/locals.php:864
+#@ CURRENT_THEME
+msgid "Start"
+msgstr "Début"
+
+#: ../includes/locals.php:867
+#@ CURRENT_THEME
+msgid "Data Management"
+msgstr "Gestion de Données"
+
+#: ../includes/locals.php:868
+#@ CURRENT_THEME
+msgid "Cherry Framework"
+msgstr "Cherry Framework"
+
+#: ../includes/locals.php:869
+#@ CURRENT_THEME
+msgid "Update Info"
+msgstr "Actualiser l'info"
+
+#: ../includes/locals.php:870
+#@ CURRENT_THEME
+msgid "Child Theme"
+msgstr "Thème d'Enfant"
+
+#: ../includes/locals.php:871
+#@ CURRENT_THEME
+msgid "Update"
+msgstr "Mise à jour"
+
+#: ../includes/locals.php:872
+#@ CURRENT_THEME
+msgid "Backup"
+msgstr "Sauvegarde"
+
+#: ../includes/locals.php:873
+#@ CURRENT_THEME
+msgid "Restore"
+msgstr "Restaurer"
+
+#: ../includes/locals.php:874
+#@ CURRENT_THEME
+msgid "Download Backup"
+msgstr "Sauvegarde de Téléchargement"
+
+#: ../includes/locals.php:877
+#@ CURRENT_THEME
+msgid "Your Version"
+msgstr "Votre Version"
+
+#: ../includes/locals.php:878
+#@ CURRENT_THEME
+msgid "Update Version"
+msgstr "Version de Mise à jour"
+
+#: ../includes/locals.php:879
+#@ CURRENT_THEME
+msgid "Backup Version"
+msgstr "Version de Secours"
+
+#: ../includes/locals.php:880
+#@ CURRENT_THEME
+msgid "Last Backup Date"
+msgstr "La dernière Date de sauvegarde"
+
+#: ../includes/locals.php:881
+#@ CURRENT_THEME
+msgid "Preview"
+msgstr "Prévisualisation"
+
+#: ../includes/locals.php:882
+#@ CURRENT_THEME
+msgid "Description"
+msgstr "Description"
+
+#: ../includes/locals.php:883
+#@ CURRENT_THEME
+msgid "No backup."
+msgstr "Aucune sauvegarde."
+
+#: ../includes/locals.php:884
+#@ CURRENT_THEME
+msgid "Not defined"
+msgstr "Non défini"
+
+#: ../includes/locals.php:885
+#@ CURRENT_THEME
+msgid "Unfortunately theme "
+msgstr "Malheureusement thème"
+
+#: ../includes/locals.php:886
+#@ CURRENT_THEME
+msgid " backup file not found. Please try to create backup once again."
+msgstr "fichier de sauvegarde introuvable. S'il vous plaît essayer de créer une sauvegarde une fois de plus."
+
+#: ../includes/locals.php:887
+#@ CURRENT_THEME
+msgid "Data Management allows to update or backup framework and themes. Framework is regularly updated thus delivering new opportunities for your site.<br> To keep your data safe, you can back up the framework or child theme, to be able to download it later. If necessary, you can restore the framework or your theme using the backup."
+msgstr "Gestion des données permet de mettre à jour ou cadre et les thèmes de sauvegarde. Cadre est régulièrement mis à jour fournissant ainsi de nouvelles possibilités pour votre site. <br> Pour protéger vos données, vous pouvez sauvegarder le cadre ou le thème de l'enfant, pour pouvoir le télécharger plus tard. Si nécessaire, vous pouvez restaurer le cadre ou votre thème en utilisant la sauvegarde."
+
+#: ../includes/locals.php:888
+#@ CURRENT_THEME
+msgid "<b>Warning!</b> Before updating framework you are strongly advised to backup your data."
+msgstr "<b> Attention! </b> Avant de mettre à jour le cadre il est fortement recommandé de sauvegarder vos données."
+
+#: ../includes/locals.php:889
+#@ CURRENT_THEME
+msgid "You can back up your theme. If the theme has a backup copy, it is possible to restore it or download. The date of the latest backup copy is displayed in the column <b>Last Backup Date</b>."
+msgstr "Vous pouvez sauvegarder votre thème. Si le thème a une copie de sauvegarde, il est possible de restaurer ou télécharger. La date de la dernière copie de sauvegarde est affiché dans la dernière date de sauvegarde de la colonne </ b>."
+
+#: ../includes/locals.php:890
+#@ CURRENT_THEME
+msgid "<b style=\"color:red;\">Warning!</b> Before updating framework you are strongly advised to <a href=\"admin.php?page=options-framework-data-management\">backup</a> your data."
+msgstr "<b style=\"color:red;\"> Attention! </ b> Avant de mettre à jour le cadre, il est fortement conseillé de <a sauvegarde href=\"admin.php?page=options-framework-data-management\"> </ a> vos données."
+
+#: ../includes/locals.php:894
+#@ CURRENT_THEME
+msgid "View File"
+msgstr "Voir le fichier"
+
+#: ../includes/locals.php:895
+#@ CURRENT_THEME
+msgid "Previously Uploaded"
+msgstr "Auparavant Téléchargé"
+
+#: ../includes/locals.php:911 ../includes/locals.php:913
+#@ CURRENT_THEME
+msgid "There was an error when reading this WXR file"
+msgstr "Il y avait une erreur lors de la lecture de ce fichier WXR"
+
+#: ../includes/locals.php:912
+#@ CURRENT_THEME
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr "Les détails sont présentés ci-dessus. L'importateur va maintenant essayer de nouveau avec un analyseur différent ..."
+
+#: ../includes/locals.php:914
+#@ CURRENT_THEME
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Cela ne semble pas être un fichier WXR, manquant / non valable WXR numéro de version"
+
+#: ../includes/locals.php:917
+#@ CURRENT_THEME
+msgid "<p>An Unexpected HTTP Error occurred during the API request.</p><p><a href='#' onclick='document.location.reload(); return false;'>Try again</a></p>"
+msgstr "<p> Une erreur HTTP inattendue s'est produite lors de la demande de l'API. </p> <a href='#' onclick='document.location.reload(); revenir false;'> Essayez à nouveau </a> </p>"
+
+#: ../includes/locals.php:918
+#@ CURRENT_THEME
+msgid "An unknown error occurred"
+msgstr "Une erreur inconnue s'est produite"
+
+#: ../includes/locals.php:919
+#@ CURRENT_THEME
+msgid "There is a new version of Cherry framework available"
+msgstr "Il est une nouvelle version du cadre de cerise disponible"
+
+#: ../includes/locals.php:920
+#@ CURRENT_THEME
+msgid "View version "
+msgstr "Voir la version"
+
+#: ../includes/locals.php:921
+#@ CURRENT_THEME
+msgid " details"
+msgstr "détails"
+
+#: ../includes/locals.php:922
+#@ CURRENT_THEME
+msgid "or"
+msgstr "ou"
+
+#: ../includes/locals.php:923
+#@ CURRENT_THEME
+msgid "update now."
+msgstr "mettre à jour maintenant."
+
+#: ../includes/locals.php:927
+#@ CURRENT_THEME
+msgid "Please do not load this page directly. Thanks!"
+msgstr "S'il vous plaît ne pas charger cette page directement. Merci!"
+
+#: ../includes/locals.php:928
+#@ CURRENT_THEME
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "Ce poste est protégé par mot. Entrez le mot de passe pour accéder aux commentaires."
+
+#: ../includes/locals.php:929
+#@ CURRENT_THEME
+msgid "1 Response"
+msgstr "1 réponse"
+
+#: ../includes/locals.php:930
+#, php-format
+#@ CURRENT_THEME
+msgid "%1$s Responses"
+msgstr "%1$s réponses"
+
+#: ../includes/locals.php:931
+#@ CURRENT_THEME
+msgid "No Comments Yet."
+msgstr "Pas de commentaire."
+
+#: ../includes/locals.php:932
+#@ CURRENT_THEME
+msgid "Comments are closed."
+msgstr "Les commentaires sont fermés."
+
+#: ../includes/locals.php:933
+#@ CURRENT_THEME
+msgid "Leave a comment"
+msgstr "Ajouter un commentaire"
+
+#: ../includes/locals.php:934
+#@ CURRENT_THEME
+msgid "You must be"
+msgstr "Vous devez être"
+
+#: ../includes/locals.php:935
+#@ CURRENT_THEME
+msgid "to post a comment."
+msgstr "pour poster un commentaire."
+
+#: ../includes/locals.php:936
+#@ CURRENT_THEME
+msgid "Logged in"
+msgstr "Connecté"
+
+#: ../includes/locals.php:937
+#@ CURRENT_THEME
+msgid "Logged in as"
+msgstr "Connecté en tant que"
+
+#: ../includes/locals.php:938
+#@ CURRENT_THEME
+msgid "Log out of this account;"
+msgstr "Déconnectez-vous de ce compte;"
+
+#: ../includes/locals.php:939
+#@ CURRENT_THEME
+msgid "Log out &raquo;"
+msgstr "Déconnectez-vous »"
+
+#: ../includes/locals.php:941
+#@ CURRENT_THEME
+msgid "Email (will not be published)"
+msgstr "Email (ne sera pas publié)"
+
+#: ../includes/locals.php:942
+#@ CURRENT_THEME
+msgid "Website"
+msgstr "site Web"
+
+#: ../includes/locals.php:943
+#@ CURRENT_THEME
+msgid "Your comment*"
+msgstr "Votre commentaire*"
+
+#: ../includes/locals.php:944
+#@ CURRENT_THEME
+msgid "Submit Comment"
+msgstr "Envoyer un commentaire"
+
+#: ../includes/locals.php:947
+#@ CURRENT_THEME
+msgid "Tweet this article"
+msgstr "Tweet cet article"
+
+#: ../includes/locals.php:950
+#@ CURRENT_THEME
+msgid "Continue Reading"
+msgstr "Lire la suite"
+
+#: ../includes/locals.php:951
+#@ CURRENT_THEME
+msgid "Pages:"
+msgstr "Pages:"
+
+#: ../includes/locals.php:952
+#@ CURRENT_THEME
+msgid "Last 30 Posts"
+msgstr "30 Derniers Messages"
+
+#: ../includes/locals.php:953
+#@ CURRENT_THEME
+msgid "Archives by Month:"
+msgstr "Archives par mois:"
+
+#: ../includes/locals.php:954
+#@ CURRENT_THEME
+msgid "Archives by Subject:"
+msgstr "Archives par sujet:"
+
+#: ../includes/locals.php:957
+#@ CURRENT_THEME
+msgid "About:"
+msgstr "À propos de:"
+
+#: ../includes/locals.php:958
+#@ CURRENT_THEME
+msgid "Recent Posts by"
+msgstr "Messages récents par"
+
+#: ../includes/locals.php:959
+#@ CURRENT_THEME
+msgid "No post yet"
+msgstr "Pas encore de post"
+
+#: ../includes/locals.php:960
+#@ CURRENT_THEME
+msgid "Recent Comments by"
+msgstr "Commentaires récents par"
+
+#: ../includes/locals.php:961
+#, php-format
+#@ CURRENT_THEME
+msgid "%1$s on %2$s"
+msgstr "%1$s sur %2$s"
+
+#: ../includes/locals.php:962
+#@ CURRENT_THEME
+msgid "No comments by"
+msgstr "Pas de commentaires par"
+
+#: ../includes/locals.php:963
+#@ CURRENT_THEME
+msgid "yet."
+msgstr "encore."
+
+#: ../includes/locals.php:966
+#@ CURRENT_THEME
+msgid "There has been an error."
+msgstr "Il ya eu une erreur."
+
+#: ../includes/locals.php:967
+#@ CURRENT_THEME
+msgid "We apologize for any inconvenience, please"
+msgstr "Nous nous excusons pour tout inconvénient, s'il vous plaît"
+
+#: ../includes/locals.php:968
+#@ CURRENT_THEME
+msgid "return to the home page"
+msgstr "revenir à la page d'accueil"
+
+#: ../includes/locals.php:969
+#@ CURRENT_THEME
+msgid "or use the search form below."
+msgstr "ou utilisez le formulaire de recherche ci-dessous."
+
+#: ../includes/locals.php:972
+#@ CURRENT_THEME
+msgid "Q?"
+msgstr "Q?"
+
+#: ../includes/locals.php:973
+#@ CURRENT_THEME
+msgid "A."
+msgstr "A."
+
+#: ../includes/locals.php:976
+#@ CURRENT_THEME
+msgid "Written by"
+msgstr "écrit par"
+
+#: ../includes/locals.php:977
+#@ CURRENT_THEME
+msgid "View all posts by"
+msgstr "Voir tous les messages de"
+
+#: ../includes/locals.php:980
+#@ CURRENT_THEME
+msgid "Not Found"
+msgstr "Introuvable"
+
+#: ../includes/locals.php:981
+#@ CURRENT_THEME
+msgid "Apologies, but no results were found for the requested archive. Perhaps searching will help find a related post."
+msgstr "Excuses, mais aucun résultat n'a été trouvé pour l'archive demandée. Peut-être la recherche aidera à trouver un poste lié."
+
+#: ../includes/locals.php:984
+#@ CURRENT_THEME
+msgid "is proudly powered by"
+msgstr "is proudly powered by"
+
+#: ../includes/locals.php:985
+#@ CURRENT_THEME
+msgid "Entries (RSS)"
+msgstr "Entrées (RSS)"
+
+#: ../includes/locals.php:986
+#@ CURRENT_THEME
+msgid "Comments (RSS)"
+msgstr "Commentaires (RSS)"
+
+#: ../includes/locals.php:987
+#@ CURRENT_THEME
+msgid "Privacy Policy"
+msgstr "Politique de confidentialité"
+
+#: ../includes/locals.php:990
+#@ CURRENT_THEME
+msgid "Category Archives"
+msgstr "Archives de la catégorie"
+
+#: ../includes/locals.php:991
+#@ CURRENT_THEME
+msgid "Portfolio Category"
+msgstr "Portefeuille Catégorie"
+
+#: ../includes/locals.php:992
+#@ CURRENT_THEME
+msgid "Search for"
+msgstr "Recherche pour"
+
+#: ../includes/locals.php:993
+#@ CURRENT_THEME
+msgid "Daily Archives"
+msgstr "Archives quotidiennes"
+
+#: ../includes/locals.php:994
+#@ CURRENT_THEME
+msgid "Monthly Archives"
+msgstr "Archives mensuelles"
+
+#: ../includes/locals.php:995
+#@ CURRENT_THEME
+msgid "Yearly Archives"
+msgstr "Archives annuelles"
+
+#: ../includes/locals.php:996
+#@ CURRENT_THEME
+msgid "by "
+msgstr "par"
+
+#: ../includes/locals.php:997
+#@ CURRENT_THEME
+msgid "Tag Archives"
+msgstr "Tag Archives"
+
+#: ../includes/locals.php:998
+#@ CURRENT_THEME
+msgid "Portfolio Tag"
+msgstr "Tag de portefeuille"
+
+#: ../includes/locals.php:1001
+#@ CURRENT_THEME
+msgid "Category Archive for"
+msgstr "Archive pour la catégorie"
+
+#: ../includes/locals.php:1002
+#@ CURRENT_THEME
+msgid "Tag Archive for"
+msgstr "Archives d'Étiquette pour"
+
+#: ../includes/locals.php:1003 ../includes/locals.php:1046
+#@ CURRENT_THEME
+msgid "Archive"
+msgstr "Archives"
+
+#: ../includes/locals.php:1004
+#@ CURRENT_THEME
+msgid "Error 404 Not Found"
+msgstr "Erreur 404 Non Trouvé"
+
+#: ../includes/locals.php:1007
+#@ CURRENT_THEME
+msgid "Launch Project"
+msgstr "Projet de Lancement"
+
+#: ../includes/locals.php:1010
+#@ CURRENT_THEME
+msgid "Sorry!"
+msgstr "Désolé!"
+
+#: ../includes/locals.php:1011
+#@ CURRENT_THEME
+msgid "Page Not Found"
+msgstr "Page Non Trouvée"
+
+#: ../includes/locals.php:1012
+#@ CURRENT_THEME
+msgid "The page you are looking for might have been removed, had its name changed, or is temporarily unavailable."
+msgstr "La page que vous cherchez pourrait avoir été enlevée, a fait changer son nom, ou est temporairement indisponible."
+
+#: ../includes/locals.php:1013
+#@ CURRENT_THEME
+msgid "Please try using our search box below to look for information on the internet."
+msgstr "Essayez S'il vous plaît d'utiliser notre boîte de recherche ci-dessous pour chercher des informations sur Internet."
+
+#: ../includes/locals.php:1016
+#@ CURRENT_THEME
+msgid "Posted in"
+msgstr "Posté dans"
+
+#: ../includes/locals.php:1019
+#@ CURRENT_THEME
+msgid "Featured"
+msgstr "En vedette"
+
+#: ../includes/locals.php:1023
+#@ CURRENT_THEME
+msgid "Submit Permalink Structure"
+msgstr "Soumettez Structure de Permalink"
+
+#: ../includes/locals.php:1024
+#@ CURRENT_THEME
+msgid "This way of links configuration can be used by not only our blog followers but will help in SEO-optimisation as well. The effectiveness and main features of this link configuration method are revealed <a href='//codex.wordpress.org/Using_Permalinks'>here</a>"
+msgstr "Cette configuration des liens peut être utilisée non seulement par les abonnés au blog, mais va aussi aider le référencement du site. L'efficacité et les fonctionnalités principales de cette configuration des liens sont révélées  <a href='//codex.wordpress.org/Using_Permalinks'>ici</a>"
+
+#: ../includes/locals.php:1025
+#@ CURRENT_THEME
+msgid "Import Sample Data"
+msgstr "Données de l'échantillon d'Importation"
+
+#: ../includes/locals.php:1026 ../includes/locals.php:1027
+#@ CURRENT_THEME
+msgid "If you want to install sample data from livedemo you need to go to <strong><a href=\"admin.php?page=import-page\">Import Content</a></strong> and follow the tips."
+msgstr "Si vous souhaitez installer les données d'exemple à partir de la démo, vous devez cliquer sur <strong><a href=\"admin.php?page=import-page\">Importer le contenu</a></strong> et suivre les indications."
+
+#: ../includes/locals.php:1030
+#@ CURRENT_THEME
+msgid "No lable."
+msgstr "Aucun lable."
+
+#: ../includes/locals.php:1033
+#@ CURRENT_THEME
+msgid "Theme Options Media"
+msgstr "Médias d'Options de Thème"
+
+#: ../includes/locals.php:1036
+#@ CURRENT_THEME
+msgid "Visibility"
+msgstr "Visibilité"
+
+#: ../includes/locals.php:1037
+#@ CURRENT_THEME
+msgid "Visible at"
+msgstr "Visible à"
+
+#: ../includes/locals.php:1038
+#@ CURRENT_THEME
+msgid "Visible on"
+msgstr "Visible sur"
+
+#: ../includes/locals.php:1039
+#@ CURRENT_THEME
+msgid "Visible for"
+msgstr "Visible"
+
+#: ../includes/locals.php:1040
+#@ CURRENT_THEME
+msgid "All pages"
+msgstr "Toutes les pages"
+
+#: ../includes/locals.php:1041
+#@ CURRENT_THEME
+msgid "All pages expecting"
+msgstr "Toutes les pages attente"
+
+#: ../includes/locals.php:1042
+#@ CURRENT_THEME
+msgid "No pages expecting"
+msgstr "Pas de pages attente"
+
+#: ../includes/locals.php:1043
+#@ CURRENT_THEME
+msgid "Homepage"
+msgstr "Page d'accueil"
+
+#: ../includes/locals.php:1044
+#@ CURRENT_THEME
+msgid "Page"
+msgstr "Page"
+
+#: ../includes/locals.php:1045
+#@ CURRENT_THEME
+msgid "Post"
+msgstr "Poster"
+
+#: ../includes/locals.php:1047
+#@ CURRENT_THEME
+msgid "Page Template"
+msgstr "page Template"
+
+#: ../includes/locals.php:1048
+#@ CURRENT_THEME
+msgid "Search page"
+msgstr "Page de recherche"
+
+#: ../includes/locals.php:1049
+#@ CURRENT_THEME
+msgid "404 page"
+msgstr "404 page"
+
+#: ../includes/locals.php:1050
+#@ CURRENT_THEME
+msgid "Page ID/Title/slug"
+msgstr "ID de page /Titre/slug"
+
+#: ../includes/locals.php:1051
+#@ CURRENT_THEME
+msgid "Post ID/Title/slug"
+msgstr "Poster ID/Titre/slug"
+
+#: ../includes/locals.php:1052
+#@ CURRENT_THEME
+msgid "Category ID/Name/slug"
+msgstr "Catégorie ID/Nom/slug"
+
+#: ../includes/locals.php:1053
+#@ CURRENT_THEME
+msgid "Tag ID/Name"
+msgstr "Tag ID/Nom"
+
+#: ../includes/locals.php:1054
+#@ CURRENT_THEME
+msgid "Template"
+msgstr "Template"
+
+#: ../includes/locals.php:1055
+#@ CURRENT_THEME
+msgid "Add page"
+msgstr "Ajouter la page"
+
+#: ../includes/locals.php:1056
+#@ CURRENT_THEME
+msgid "Selected pages"
+msgstr "Pages sélectionnées"
+
+#: ../includes/locals.php:1057
+#@ CURRENT_THEME
+msgid "No pages"
+msgstr "No pages"
+
+#: ../includes/locals.php:1058
+#@ CURRENT_THEME
+msgid "All devices"
+msgstr "Tous les appareils"
+
+#: ../includes/locals.php:1059
+#@ CURRENT_THEME
+msgid "Desktops"
+msgstr "Ordinateurs de bureau"
+
+#: ../includes/locals.php:1060
+#@ CURRENT_THEME
+msgid "Tablets"
+msgstr "Tablettes"
+
+#: ../includes/locals.php:1061
+#@ CURRENT_THEME
+msgid "Phones"
+msgstr "Téléphones"
+
+#: ../includes/locals.php:1062
+#@ CURRENT_THEME
+msgid "Desktops/Tablets"
+msgstr "Bureaux/Tablettes"
+
+#: ../includes/locals.php:1063
+#@ CURRENT_THEME
+msgid "Tablets/Phones"
+msgstr "Tablettes/Téléphones"
+
+#: ../includes/locals.php:1064
+#@ CURRENT_THEME
+msgid "Desktops/Phones"
+msgstr "Bureaux/téléphones"
+
+#: ../includes/locals.php:1065
+#@ CURRENT_THEME
+msgid "All users"
+msgstr "Tous les utilisateurs"
+
+#: ../includes/locals.php:1066
+#@ CURRENT_THEME
+msgid "Only guests"
+msgstr "Seulement invités"
+
+#: ../includes/locals.php:1067
+#@ CURRENT_THEME
+msgid "Only registered users"
+msgstr "Seulement utilisateurs inscrits"
+
+#: ../includes/locals.php:1068
+#@ CURRENT_THEME
+msgid "Only administrator"
+msgstr "Seulement administrateur"
+
+#: ../includes/locals.php:1069
+#@ CURRENT_THEME
+msgid "Select page to add"
+msgstr "Choisissez la page pour ajouter"
+
+#: ../includes/locals.php:1070
+#@ CURRENT_THEME
+msgid "Custom CSS class"
+msgstr "Custom CSS class"
+
+#: ../includes/locals.php:1073
+#@ CURRENT_THEME
+msgid "Sitemap XML"
+msgstr "Sitemap XML"
+
+#: ../includes/locals.php:1074
+#@ CURRENT_THEME
+msgid "Use sitemap.xml for your website"
+msgstr "Utiliser un fichier sitemap.xml pour votre site"
+
+#: ../includes/locals.php:1075
+#@ CURRENT_THEME
+msgid "Enable sitemap.xml (Disabling this option will delete sitemap.xml file)"
+msgstr "Activer le fichier sitemap.xml (désactiver cette option va supprimer le fichier sitemap.xml)"
+
+#: ../includes/locals.php:1076
+#@ CURRENT_THEME
+msgid "Generate robots.txt file to control search bots while indexing your website. (Disabling this option will delete robots.txt file)"
+msgstr "Générer un fichier robots.txt pour contrôler les robots des moteurs de recherche qui indexent votre site. (désactiver cette option va supprimer le fichier robots.txt)"
+
+#: ../includes/locals.php:1077
+#@ CURRENT_THEME
+msgid "Include post types."
+msgstr "Inclure les types de poste."
+
+#: ../includes/locals.php:1078
+#@ CURRENT_THEME
+msgid "Priority."
+msgstr "Priorité."
+
+#: ../includes/locals.php:1079
+#@ CURRENT_THEME
+msgid "Change freq."
+msgstr "Changer fréq."
+
+#: ../includes/locals.php:1080
+#@ CURRENT_THEME
+msgid "Post types settings."
+msgstr "Message types paramètres."
+
+#: ../includes/locals.php:1081
+#@ CURRENT_THEME
+msgid "<strong>Include post types</strong> - specify the post types which will be included into your sitemap."
+msgstr "<strong> Inclure les types de poste </strong> - spécifier les types de poste qui seront inclus dans votre sitema"
+
+#: ../includes/locals.php:1082
+#@ CURRENT_THEME
+msgid "<strong>Priority</strong> - set post type priorities on your site. For example, if the blog page content is more important for search engines than the portfolio page content, set the priority for blog posts as 1, for portfolio pages as 0.9 and so on."
+msgstr "<strong> priorité </strong> - définir les priorités de type de poste sur votre site. Par exemple, si le contenu blog page est plus important pour les moteurs de recherche que le contenu du portefeuille de la page, définir la priorité de messages de blog comme 1, pour les pages de portefeuille que 0,9 et ainsi de suite."
+
+#: ../includes/locals.php:1083
+#@ CURRENT_THEME
+msgid "<strong>Change frequency</strong> - specify how often you change certain post types. It helps the search engines to determine how relevant your information is at the moment of search."
+msgstr "<strong> changement de fréquence </strong> - indiquez à quelle fréquence vous changez certains types de poste. Il aide les moteurs de recherche afin de déterminer la pertinence de votre information au moment de la recherche."
+
+#: ../includes/locals.php:1084
+#@ CURRENT_THEME
+msgid "<strong>Ping sitemap</strong> - choose the search engines which will receive the link to your sitemap."
+msgstr "<strong> Ping plan du site </strong> - choisir les moteurs de recherche qui recevront le lien vers votre sitemap."
+
+#: ../includes/locals.php:1085
+#@ CURRENT_THEME
+msgid "Ping sitemap."
+msgstr "Ping plan du site."
+
+#: ../includes/locals.php:1086
+#@ CURRENT_THEME
+msgid "SEO"
+msgstr "SEO"
+
+#: ../includes/locals.php:1087
+#@ CURRENT_THEME
+msgid "Your website indexation settings."
+msgstr "Votre site paramètres d'indexation."
+
+#: ../includes/locals.php:1088
+#@ CURRENT_THEME
+msgid "Forbid the search engines to index the following directories of your site."
+msgstr "Interdire les moteurs de recherche d'indexer les répertoires suivants de votre site."
+
+#: ../includes/locals.php:1089
+#@ CURRENT_THEME
+msgid "These settings will help reduce the information search range on your site. "
+msgstr "Ces paramètres permettront de réduire les informations plage de recherche sur votre site."
+
+#: ../includes/locals.php:1090
+#@ CURRENT_THEME
+msgid "WordPress engine system files and folders <em>(recommended)</em>"
+msgstr "Les fichiers système de moteur WordPress et dossiers <em>(recommandé)</em>"
+
+#: ../includes/locals.php:1091
+#@ CURRENT_THEME
+msgid "Your plugins system files and folders <em>(recommended)</em>"
+msgstr "Vos plugins fichiers système et dossiers <em>(recommandé)</em>"
+
+#: ../includes/locals.php:1092
+#@ CURRENT_THEME
+msgid "Your themes system files and folders <em>(recommended)</em>"
+msgstr "Vos thèmes fichiers système et dossiers <em>(recommandé)</em>"
+
+#: ../includes/locals.php:1093
+#@ CURRENT_THEME
+msgid "Media library files (images, video, audio, etc.) <em>(not recommended)</em>"
+msgstr "Fichiers de bibliothèque de médias (images, vidéo, audio, etc) <em>(non recommandé)</em>"
+
+#: ../includes/locals.php:1094
+#@ CURRENT_THEME
+msgid "Add the <em>\"rel\"</em> attribute with the <em>\"nofollow\"</em> value to content links."
+msgstr "Ajouter le <em> \"rel\" </em> attribut avec le <em>\"nofollow\"</em> valeur aux liens de contenu."
+
+#: ../includes/locals.php:1095
+#@ CURRENT_THEME
+msgid "This option will stop the search engines from going to other sites following the links in your site content."
+msgstr "Cette option sera d'arrêter les moteurs de recherche d'aller vers d'autres sites en suivant les liens dans le contenu de votre site."
+

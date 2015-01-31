@@ -1,0 +1,4 @@
+[29-Nov-2014 13:05:14 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/CherryFramework/index.php on line 2
+[14-Jan-2015 08:46:18 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/CherryFramework/index.php on line 2
+[16-Jan-2015 12:33:06 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/CherryFramework/index.php on line 2
+[23-Jan-2015 06:36:23 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/CherryFramework/index.php on line 2

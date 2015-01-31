@@ -1,0 +1,7 @@
+[03-Jan-2015 07:10:18 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/slg2015/public_html/wp-content/themes/theme51991/includes/custom-js.php on line 2
+[03-Jan-2015 17:36:18 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/slg2015/public_html/wp-content/themes/theme51991/includes/theme-init.php on line 2
+[04-Jan-2015 06:03:59 Etc/GMT] PHP Fatal error:  Call to undefined function add_action() in /home/slg2015/public_html/wp-content/themes/theme51991/includes/sidebar-init.php on line 3
+[04-Jan-2015 06:09:59 Etc/GMT] PHP Fatal error:  Call to undefined function get_option() in /home/slg2015/public_html/wp-content/themes/theme51991/includes/parallaxSlider.php on line 5
+[04-Jan-2015 12:28:44 Etc/GMT] PHP Fatal error:  Call to undefined function load_child_theme_textdomain() in /home/slg2015/public_html/wp-content/themes/theme51991/includes/custom-function.php on line 3
+[05-Jan-2015 08:56:04 Etc/GMT] PHP Warning:  require_once(PARENT_DIR/includes/class-tgm-plugin-activation.php): failed to open stream: No such file or directory in /home/slg2015/public_html/wp-content/themes/theme51991/includes/register-plugins.php on line 22
+[05-Jan-2015 08:56:04 Etc/GMT] PHP Fatal error:  require_once(): Failed opening required 'PARENT_DIR/includes/class-tgm-plugin-activation.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/slg2015/public_html/wp-content/themes/theme51991/includes/register-plugins.php on line 22

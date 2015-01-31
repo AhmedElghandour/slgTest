@@ -1,0 +1,2 @@
+[19-Dec-2014 16:49:08 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/theme51991/page-home.php on line 6
+[16-Jan-2015 12:36:03 Etc/GMT] PHP Fatal error:  Call to undefined function get_header() in /home/slg2015/public_html/wp-content/themes/theme51991/page-home.php on line 6
